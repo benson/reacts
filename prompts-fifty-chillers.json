@@ -1,0 +1,673 @@
+{
+  "mode": "Built-in image_gen",
+  "base": "One square photorealistic early-2000s fisheye candid flash snapshot. Strong wide-angle barrel distortion, soft dark corners, modest grain, real fur and skin, ordinary lived-in surroundings. MAXIMUM CHILL: sleepy, relaxed, comfortable, unbothered adult animals with naturally attached human hands or occasional human feet. Keep recognizable animal faces, convey specific human moods through posture and tiny gestures. Real point-and-shoot photo rather than illustration or CGI. No captions, watermark, collage, or fantasy scenery. Avoid prominent logos and readable signage. ",
+  "scenes": [
+    {
+      "id": "single-dishwasher",
+      "title": "tomorrow problem",
+      "scene": "Exactly ONE main adult animal. A gray tabby sits on a kitchen counter beside a sink full of dishes, holding a mug in its human hands, looking deeply unconcerned.",
+      "tags": [
+        "chill",
+        "single",
+        "cat",
+        "kitchen",
+        "dishes",
+        "coffee"
+      ]
+    },
+    {
+      "id": "single-library",
+      "title": "quiet please",
+      "scene": "Exactly ONE main adult animal. A sleepy raccoon sinks into a library armchair with an open paperback on its belly, human finger marking a page, reading glasses low on its nose.",
+      "tags": [
+        "chill",
+        "single",
+        "raccoon",
+        "library",
+        "book",
+        "glasses"
+      ]
+    },
+    {
+      "id": "single-drive-through",
+      "title": "usual please",
+      "scene": "Exactly ONE main adult animal. A capybara in an old parked sedan rests its human wrist on the steering wheel, holding a plain paper takeaway bag, tiny sunglasses and total ease.",
+      "tags": [
+        "chill",
+        "single",
+        "capybara",
+        "car",
+        "takeaway",
+        "sunglasses"
+      ]
+    },
+    {
+      "id": "single-foot-soak",
+      "title": "earned this",
+      "scene": "Exactly ONE main adult animal. A basset hound in a bathroom chair soaks its human feet in a plastic basin, towel over shoulders, eyelids heavy with relief.",
+      "tags": [
+        "chill",
+        "single",
+        "dog",
+        "basset",
+        "bathroom",
+        "feet",
+        "towel"
+      ]
+    },
+    {
+      "id": "single-record-store",
+      "title": "good pressing",
+      "scene": "Exactly ONE main adult animal. An otter sits on a low stool in a cramped record shop, holding a blank-sleeved vinyl record with human hands, quietly pleased.",
+      "tags": [
+        "chill",
+        "single",
+        "otter",
+        "records",
+        "music",
+        "shop"
+      ]
+    },
+    {
+      "id": "single-plant-duty",
+      "title": "thriving",
+      "scene": "Exactly ONE main adult animal. An opossum sits on a balcony holding a small watering can in its human hand beside one ordinary scraggly houseplant, satisfied as if the job is complete.",
+      "tags": [
+        "chill",
+        "single",
+        "opossum",
+        "balcony",
+        "plant",
+        "watering"
+      ]
+    },
+    {
+      "id": "single-bus-nap",
+      "title": "wake me there",
+      "scene": "Exactly ONE main adult animal. A pigeon in a bus window seat with its human arms folded around a tote bag, head comfortably tilted against the glass, warm late-afternoon light.",
+      "tags": [
+        "chill",
+        "single",
+        "pigeon",
+        "bus",
+        "nap",
+        "bag"
+      ]
+    },
+    {
+      "id": "single-bathroom-frog",
+      "title": "spa day",
+      "scene": "Exactly ONE main adult animal. A frog reclines in a shallow ordinary bathtub with a folded towel behind its head, its own human hands on the rim, deeply relaxed.",
+      "tags": [
+        "chill",
+        "single",
+        "frog",
+        "bath",
+        "towel",
+        "relaxed"
+      ]
+    },
+    {
+      "id": "single-puzzle-ferret",
+      "title": "one piece left",
+      "scene": "Exactly ONE main adult animal. A ferret lounges at a small table with an unfinished jigsaw, holding one puzzle piece in human fingers, smugly content despite very little progress.",
+      "tags": [
+        "chill",
+        "single",
+        "ferret",
+        "puzzle",
+        "table",
+        "content"
+      ]
+    },
+    {
+      "id": "single-vending",
+      "title": "decisions decisions",
+      "scene": "Exactly ONE main adult animal. A quokka leans against an ordinary vending machine at night, human hand holding loose coins, thoughtful half-lidded gaze.",
+      "tags": [
+        "chill",
+        "single",
+        "quokka",
+        "vending",
+        "coins",
+        "snack"
+      ]
+    },
+    {
+      "id": "single-tailgate",
+      "title": "good parking",
+      "scene": "Exactly ONE main adult animal. An orange cat sits on the open tailgate of a parked pickup, human feet in worn slides dangling, plain cold drink beside it, quiet afternoon.",
+      "tags": [
+        "chill",
+        "single",
+        "cat",
+        "truck",
+        "feet",
+        "drink"
+      ]
+    },
+    {
+      "id": "single-lawn-sprinkler",
+      "title": "summer schedule",
+      "scene": "Exactly ONE main adult animal. A capybara lies low in a backyard lawn chair beside an ordinary sprinkler, its human hand resting on its belly, tiny sunglasses.",
+      "tags": [
+        "chill",
+        "single",
+        "capybara",
+        "lawn",
+        "summer",
+        "sunglasses"
+      ]
+    },
+    {
+      "id": "single-microwave",
+      "title": "any second",
+      "scene": "Exactly ONE main adult animal. A raccoon in an old robe sits on a kitchen stool facing a microwave, its human hands folded expectantly, sleepy midnight patience.",
+      "tags": [
+        "chill",
+        "single",
+        "raccoon",
+        "kitchen",
+        "microwave",
+        "waiting"
+      ]
+    },
+    {
+      "id": "single-window-cat",
+      "title": "neighborhood watch",
+      "scene": "Exactly ONE main adult animal. A tuxedo cat rests human elbows on an open apartment windowsill, looking down at the street with lazy mild curiosity, mug beside it.",
+      "tags": [
+        "chill",
+        "single",
+        "cat",
+        "window",
+        "watching",
+        "coffee"
+      ]
+    },
+    {
+      "id": "single-workbench",
+      "title": "supervising",
+      "scene": "Exactly ONE main adult animal. A pigeon sits on a garage workbench in a loose faded tee, its human hand loosely holding a tape measure, calmly watching someone off camera.",
+      "tags": [
+        "chill",
+        "single",
+        "pigeon",
+        "garage",
+        "tools",
+        "supervising"
+      ]
+    },
+    {
+      "id": "single-blanket-otter",
+      "title": "do not disturb",
+      "scene": "Exactly ONE main adult animal. An otter wrapped loosely in a plaid blanket sits in a recliner with only its human hand and remote sticking out, sleepy eyes.",
+      "tags": [
+        "chill",
+        "single",
+        "otter",
+        "blanket",
+        "remote",
+        "couch"
+      ]
+    },
+    {
+      "id": "single-motel-ice",
+      "title": "essential supplies",
+      "scene": "Exactly ONE main adult animal. An opossum in slippers sits on a motel walkway holding a plastic ice bucket in its human hands, leaning back against the wall, completely at ease.",
+      "tags": [
+        "chill",
+        "single",
+        "opossum",
+        "motel",
+        "ice",
+        "slippers"
+      ]
+    },
+    {
+      "id": "single-desk-frog",
+      "title": "out of office",
+      "scene": "Exactly ONE main adult animal. A frog sits at a very ordinary desk, its human feet propped next to a closed laptop, hands behind its head, empty coffee mug nearby.",
+      "tags": [
+        "chill",
+        "single",
+        "frog",
+        "desk",
+        "office",
+        "feet"
+      ]
+    },
+    {
+      "id": "single-picnic-ferret",
+      "title": "packed light",
+      "scene": "Exactly ONE main adult animal. A ferret sprawls on a picnic blanket beside a large sandwich, human hand holding a pickle, contented squint in dappled sunlight.",
+      "tags": [
+        "chill",
+        "single",
+        "ferret",
+        "picnic",
+        "sandwich",
+        "food"
+      ]
+    },
+    {
+      "id": "single-lounge-quokka",
+      "title": "just resting eyes",
+      "scene": "Exactly ONE main adult animal. A quokka lies across an old sofa with one human hand shielding its eyes, TV light and on-camera flash, socks peeking from loose sweatpants.",
+      "tags": [
+        "chill",
+        "single",
+        "quokka",
+        "sofa",
+        "nap",
+        "sleepy"
+      ]
+    },
+    {
+      "id": "pair-coffee-refill",
+      "title": "same again",
+      "scene": "Exactly TWO distinct adult animals. A raccoon and a basset hound in a diner booth each lift an empty coffee mug slightly with a human hand, synchronized tired patience.",
+      "tags": [
+        "chill",
+        "duo",
+        "raccoon",
+        "dog",
+        "diner",
+        "coffee"
+      ]
+    },
+    {
+      "id": "pair-tool-search",
+      "title": "somewhere here",
+      "scene": "Exactly TWO distinct adult animals. A ferret and an opossum sit on a garage floor surrounded by an ordinary small toolbox, one holds a screwdriver while the other shrugs with human hands, neither concerned.",
+      "tags": [
+        "chill",
+        "duo",
+        "ferret",
+        "opossum",
+        "garage",
+        "tools"
+      ]
+    },
+    {
+      "id": "pair-park-bench",
+      "title": "people watching",
+      "scene": "Exactly TWO distinct adult animals. An orange cat and capybara sit on a park bench holding takeaway cups in human hands, both lazily watching the same off-camera passerby.",
+      "tags": [
+        "chill",
+        "duo",
+        "cat",
+        "capybara",
+        "park",
+        "coffee"
+      ]
+    },
+    {
+      "id": "pair-corner-slice",
+      "title": "solid choice",
+      "scene": "Exactly TWO distinct adult animals. Two raccoons sit on plastic chairs outside a pizza shop at night, each holding a slice in a human hand and giving the other a calm approving look.",
+      "tags": [
+        "chill",
+        "duo",
+        "raccoon",
+        "pizza",
+        "night"
+      ]
+    },
+    {
+      "id": "pair-umbrella",
+      "title": "mostly dry",
+      "scene": "Exactly TWO distinct adult animals. A pigeon and otter squeeze comfortably under one ordinary umbrella at a bus stop, pigeon human hand holding handle, otter holding coffee, resigned calm.",
+      "tags": [
+        "chill",
+        "duo",
+        "pigeon",
+        "otter",
+        "rain",
+        "umbrella"
+      ]
+    },
+    {
+      "id": "pair-moving-break",
+      "title": "heavy enough",
+      "scene": "Exactly TWO distinct adult animals. A basset hound and ferret sit on opposite ends of a sofa stranded in an otherwise ordinary hallway during a move, hands on knees, enjoying a long break.",
+      "tags": [
+        "chill",
+        "duo",
+        "dog",
+        "ferret",
+        "moving",
+        "sofa"
+      ]
+    },
+    {
+      "id": "pair-porch-cards",
+      "title": "your move",
+      "scene": "Exactly TWO distinct adult animals. An opossum and a frog sit at a small porch table holding playing cards with human hands, relaxed serious faces, plain drinks nearby.",
+      "tags": [
+        "chill",
+        "duo",
+        "opossum",
+        "frog",
+        "cards",
+        "porch"
+      ]
+    },
+    {
+      "id": "pair-window-shopping",
+      "title": "just looking",
+      "scene": "Exactly TWO distinct adult animals. A tuxedo cat and raccoon stand close outside an ordinary closed bakery, human hands in coat pockets, looking contentedly at pastries through glass.",
+      "tags": [
+        "chill",
+        "duo",
+        "cat",
+        "raccoon",
+        "bakery",
+        "food"
+      ]
+    },
+    {
+      "id": "pair-bbq-wait",
+      "title": "let it rest",
+      "scene": "Exactly TWO distinct adult animals. A capybara and quokka sit in folding chairs near a closed backyard grill, each holding a plain beer bottle in a human hand, absolutely no urgency.",
+      "tags": [
+        "chill",
+        "duo",
+        "capybara",
+        "quokka",
+        "grill",
+        "beer"
+      ]
+    },
+    {
+      "id": "pair-music-store",
+      "title": "try this one",
+      "scene": "Exactly TWO distinct adult animals. A pigeon and ferret sit on stools in a music shop, ferret loosely holds an unplugged guitar, pigeon makes a small approving human thumbs-up.",
+      "tags": [
+        "chill",
+        "duo",
+        "pigeon",
+        "ferret",
+        "guitar",
+        "music"
+      ]
+    },
+    {
+      "id": "pair-laundry-fold",
+      "title": "close enough",
+      "scene": "Exactly TWO distinct adult animals. An otter and orange cat sit on the floor beside a basket of laundry, each holding a poorly folded towel in human hands, sharing a pleased glance.",
+      "tags": [
+        "chill",
+        "duo",
+        "otter",
+        "cat",
+        "laundry",
+        "towels"
+      ]
+    },
+    {
+      "id": "pair-road-map",
+      "title": "probably this way",
+      "scene": "Exactly TWO distinct adult animals. A raccoon and opossum sit in a parked old car, an unfolded paper map spread over their laps, raccoon points with a human finger while opossum calmly eats fries.",
+      "tags": [
+        "chill",
+        "duo",
+        "raccoon",
+        "opossum",
+        "car",
+        "map",
+        "fries"
+      ]
+    },
+    {
+      "id": "pair-book-club",
+      "title": "good chapter",
+      "scene": "Exactly TWO distinct adult animals. A basset hound and quokka in adjacent old armchairs each hold a paperback in human hands but both have their eyes almost closed, reading glasses on noses.",
+      "tags": [
+        "chill",
+        "duo",
+        "dog",
+        "quokka",
+        "books",
+        "sleepy"
+      ]
+    },
+    {
+      "id": "pair-fishing-lunch",
+      "title": "bait can wait",
+      "scene": "Exactly TWO distinct adult animals. A frog and otter sit on a dock with fishing rods lying idle, human hands holding sandwiches, relaxed lunch break over an ordinary lake.",
+      "tags": [
+        "chill",
+        "duo",
+        "frog",
+        "otter",
+        "fishing",
+        "sandwich"
+      ]
+    },
+    {
+      "id": "pair-small-victory",
+      "title": "nailed it",
+      "scene": "Exactly TWO distinct adult animals. A gray cat and pigeon sit beside a just-assembled ordinary small bookshelf, quietly touching two human fists together, scattered packaging around them.",
+      "tags": [
+        "chill",
+        "duo",
+        "cat",
+        "pigeon",
+        "furniture",
+        "success"
+      ]
+    },
+    {
+      "id": "pair-takeout-menu",
+      "title": "get both",
+      "scene": "Exactly TWO distinct adult animals. A capybara and ferret lean over a takeout menu at a kitchen table, each human index finger on a different blurred food photo, calm agreement.",
+      "tags": [
+        "chill",
+        "duo",
+        "capybara",
+        "ferret",
+        "menu",
+        "food"
+      ]
+    },
+    {
+      "id": "pair-backseat",
+      "title": "passenger privileges",
+      "scene": "Exactly TWO distinct adult animals. An opossum and orange cat slump comfortably in the backseat of a parked ordinary car, one holds a giant fountain drink and the other a snack bag in human hands.",
+      "tags": [
+        "chill",
+        "duo",
+        "opossum",
+        "cat",
+        "car",
+        "snack",
+        "drink"
+      ]
+    },
+    {
+      "id": "pair-tv-remote",
+      "title": "you pick",
+      "scene": "Exactly TWO distinct adult animals. An otter and raccoon on a couch gently offer the same remote back and forth with human hands, equally indifferent relaxed faces.",
+      "tags": [
+        "chill",
+        "duo",
+        "otter",
+        "raccoon",
+        "couch",
+        "remote"
+      ]
+    },
+    {
+      "id": "pair-waiting-room",
+      "title": "no rush",
+      "scene": "Exactly TWO distinct adult animals. A pigeon and basset hound sit in ordinary waiting-room chairs, pigeon reading a folded magazine, hound resting human hands on belly, patient half-closed eyes.",
+      "tags": [
+        "chill",
+        "duo",
+        "pigeon",
+        "dog",
+        "waiting",
+        "magazine"
+      ]
+    },
+    {
+      "id": "pair-night-stoop",
+      "title": "one more story",
+      "scene": "Exactly TWO distinct adult animals. A quokka and raccoon lounge on brownstone steps at night, quokka holding a plain double Styrofoam cup and raccoon a cigarette with human hands, quietly amused.",
+      "tags": [
+        "chill",
+        "duo",
+        "quokka",
+        "raccoon",
+        "stoop",
+        "cup",
+        "lean",
+        "cigarette",
+        "smoking"
+      ]
+    },
+    {
+      "id": "trio-diner",
+      "title": "committee meeting",
+      "scene": "Exactly THREE distinct adult animals. A raccoon, orange cat and opossum share a diner booth, three coffee mugs, each with relaxed human hands resting on the table, silently considering one plate of fries.",
+      "tags": [
+        "chill",
+        "trio",
+        "raccoon",
+        "cat",
+        "opossum",
+        "diner",
+        "coffee",
+        "fries"
+      ]
+    },
+    {
+      "id": "trio-porch",
+      "title": "local experts",
+      "scene": "Exactly THREE distinct adult animals. A basset hound, capybara and pigeon occupy three mismatched porch chairs, cold drinks in human hands, all watching the street with unearned authority.",
+      "tags": [
+        "chill",
+        "trio",
+        "dog",
+        "capybara",
+        "pigeon",
+        "porch",
+        "drinks"
+      ]
+    },
+    {
+      "id": "trio-couch",
+      "title": "nothing else on",
+      "scene": "Exactly THREE distinct adult animals. An otter, ferret and gray cat are comfortably wedged on an old couch, human hands holding a popcorn bowl, remote and drink respectively, sleepy TV glow.",
+      "tags": [
+        "chill",
+        "trio",
+        "otter",
+        "ferret",
+        "cat",
+        "couch",
+        "television"
+      ]
+    },
+    {
+      "id": "trio-garage",
+      "title": "diagnosis pending",
+      "scene": "Exactly THREE distinct adult animals. Three raccoons sit around an ordinary dismantled bicycle in a garage, one holds a wrench, one a beer, one rests human hands behind its head, all relaxed.",
+      "tags": [
+        "chill",
+        "trio",
+        "raccoon",
+        "garage",
+        "bicycle",
+        "beer"
+      ]
+    },
+    {
+      "id": "trio-beach-chairs",
+      "title": "fully booked",
+      "scene": "Exactly THREE distinct adult animals. A frog, quokka and capybara sit in three cheap beach chairs at an ordinary lakeside beach, sunglasses, human feet stretched out, small cooler between them.",
+      "tags": [
+        "chill",
+        "trio",
+        "frog",
+        "quokka",
+        "capybara",
+        "beach",
+        "sunglasses"
+      ]
+    },
+    {
+      "id": "trio-bus-stop",
+      "title": "eventually",
+      "scene": "Exactly THREE distinct adult animals. An opossum, pigeon and basset hound sit on a bus-stop bench at dusk, evenly spaced but all slouching differently, human hands resting on bags or coffee cups.",
+      "tags": [
+        "chill",
+        "trio",
+        "opossum",
+        "pigeon",
+        "dog",
+        "bus",
+        "waiting"
+      ]
+    },
+    {
+      "id": "trio-kitchen-snacks",
+      "title": "after hours",
+      "scene": "Exactly THREE distinct adult animals. An orange cat, otter and raccoon sit on the floor of an ordinary kitchen at midnight, each holding a different leftover snack in human hands, quietly content.",
+      "tags": [
+        "chill",
+        "trio",
+        "cat",
+        "otter",
+        "raccoon",
+        "kitchen",
+        "snack"
+      ]
+    },
+    {
+      "id": "trio-picnic",
+      "title": "important discussion",
+      "scene": "Exactly THREE distinct adult animals. A ferret, frog and opossum sit around a picnic blanket with sandwiches, ferret makes a small human-hand point while frog nods and opossum peacefully eats.",
+      "tags": [
+        "chill",
+        "trio",
+        "ferret",
+        "frog",
+        "opossum",
+        "picnic",
+        "sandwich"
+      ]
+    },
+    {
+      "id": "trio-laundromat",
+      "title": "spin cycle club",
+      "scene": "Exactly THREE distinct adult animals. A gray cat, capybara and quokka sit in three adjacent laundromat chairs, arms folded or hands on belly, staring at spinning dryers with deep calm.",
+      "tags": [
+        "chill",
+        "trio",
+        "cat",
+        "capybara",
+        "quokka",
+        "laundromat",
+        "waiting"
+      ]
+    },
+    {
+      "id": "trio-balcony",
+      "title": "good company",
+      "scene": "Exactly THREE distinct adult animals. Two pigeons and an orange cat lounge on a cramped ordinary apartment balcony at night, human hands holding plain drinks, one pigeon leaning in to talk, others comfortably listening.",
+      "tags": [
+        "chill",
+        "trio",
+        "pigeon",
+        "cat",
+        "balcony",
+        "drinks",
+        "friends"
+      ]
+    }
+  ],
+  "groupPromptSuffix": " All human hands belong anatomically to the animals. No human people, no photographer limbs.",
+  "groupPromptSuffixAppliesTo": "duo and trio scenes"
+}

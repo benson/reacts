@@ -3,20 +3,25 @@ async page => {
   const errors = [];
   page.on('pageerror', error => errors.push(error.message));
   await page.reload();
-  await page.waitForFunction(() => document.querySelectorAll('.card').length === 85);
+  await page.waitForFunction(() => document.querySelectorAll('.card').length === 135);
   check((await page.locator('body').innerText()).trim() === 'reacts', 'No unnecessary gallery copy');
   const search = page.getByRole('searchbox', {name:'Search reactions'});
   await search.fill('cats');
-  check(await page.locator('.card').count() === 27, 'Plural cat search');
+  check(await page.locator('.card').count() === 40, 'Plural cat search');
   await search.fill('lean cup');
-  check(await page.locator('.card').count() === 6, 'New cup images searchable');
+  check(await page.locator('.card').count() === 7, 'New cup images searchable');
   await page.reload();
-  await page.waitForFunction(() => document.querySelectorAll('.card').length === 6);
+  await page.waitForFunction(() => document.querySelectorAll('.card').length === 7);
   await search.fill('smoking');
-  check(await page.locator('.card').count() === 8, 'New smoking images searchable');
+  check(await page.locator('.card').count() === 9, 'New smoking images searchable');
   await search.fill('duo');
-  check(await page.locator('.card').count() === 21, 'Twenty new pairs plus the original raccoon pair');
+  check(await page.locator('.card').count() === 41, 'All duo scenes searchable');
   await page.getByRole('button',{name:'View did you hear that',exact:true}).click();
+  await page.locator('#detail-image').evaluate(img=>img.decode());
+  await page.keyboard.press('Escape');
+  await search.fill('trio');
+  check(await page.locator('.card').count() === 10, 'Ten new trios searchable');
+  await page.getByRole('button',{name:'View committee meeting',exact:true}).click();
   await page.locator('#detail-image').evaluate(img=>img.decode());
   await page.keyboard.press('Escape');
   await search.fill('no-such-animal-123');
@@ -46,5 +51,5 @@ async page => {
   await page.emulateMedia({colorScheme:'light'});
   await page.screenshot({path:'output/desktop.png'});
   check(errors.length===0, errors.join('\n'));
-  return 'Passed: 85 images, minimal copy, search, new image tags, empty state, URL persistence, preview, clipboard, download, Escape, mobile layout and both themes; no page errors.';
+  return 'Passed: 135 images, minimal copy, search, new image tags, empty state, URL persistence, preview, clipboard, download, Escape, mobile layout and both themes; no page errors.';
 }
