@@ -1,5 +1,492 @@
 [
   {
+    "id": "not-my-problem",
+    "title": "not my problem",
+    "alt": "An adult gray cat sinks into a couch holding a drink in its human hand, idly watching a blurred adult human struggle with flat-pack furniture on the floor. Completely unconcerned, feet up.",
+    "tags": [
+      "chill",
+      "cat",
+      "couch",
+      "drink",
+      "unbothered"
+    ],
+    "image": "images/not-my-problem.jpg",
+    "thumbnail": "images/not-my-problem-thumb.webp"
+  },
+  {
+    "id": "go-on-raccoon",
+    "title": "go on",
+    "alt": "An adult raccoon leans across a diner table, human hand holding a cigarette halfway to its mouth, narrowed interested eyes, clearly waiting for the next part of some excellent gossip.",
+    "tags": [
+      "chill",
+      "raccoon",
+      "diner",
+      "cigarette",
+      "smoking",
+      "gossip"
+    ],
+    "image": "images/go-on-raccoon.jpg",
+    "thumbnail": "images/go-on-raccoon-thumb.webp"
+  },
+  {
+    "id": "understandable-capybara",
+    "title": "understandable",
+    "alt": "An adult capybara rests its human forearm through a rolled-down window of an ordinary parked car, chin dipped in the smallest knowing nod, sleepy accepting gaze toward camera.",
+    "tags": [
+      "chill",
+      "capybara",
+      "car",
+      "nod",
+      "agreement"
+    ],
+    "image": "images/understandable-capybara.jpg",
+    "thumbnail": "images/understandable-capybara-thumb.webp"
+  },
+  {
+    "id": "so-back-frog",
+    "title": "we are so back",
+    "alt": "An adult frog in a worn bathrobe sits on a couch opening a pizza box with its human hands, leaning back with deeply satisfied half-closed eyes.",
+    "tags": [
+      "chill",
+      "frog",
+      "pizza",
+      "bathrobe",
+      "pleased"
+    ],
+    "image": "images/so-back-frog.jpg",
+    "thumbnail": "images/so-back-frog-thumb.webp"
+  },
+  {
+    "id": "absolutely-not-basset",
+    "title": "absolutely not",
+    "alt": "An adult basset hound tucked into a rumpled bed looks over low reading glasses toward the camera, human hand holding duvet at chest, utterly unwilling to get up.",
+    "tags": [
+      "chill",
+      "dog",
+      "basset",
+      "bed",
+      "glasses",
+      "no"
+    ],
+    "image": "images/absolutely-not-basset.jpg",
+    "thumbnail": "images/absolutely-not-basset-thumb.webp"
+  },
+  {
+    "id": "know-a-guy-pigeon",
+    "title": "i know a guy",
+    "alt": "An adult pigeon lounges on a stoop with an old flip phone held to its head by its own human hand, other hand gesturing casually like everything is handled.",
+    "tags": [
+      "chill",
+      "pigeon",
+      "phone",
+      "stoop",
+      "confident"
+    ],
+    "image": "images/know-a-guy-pigeon.jpg",
+    "thumbnail": "images/know-a-guy-pigeon-thumb.webp"
+  },
+  {
+    "id": "big-plans-opossum",
+    "title": "big plans tonight",
+    "alt": "An adult opossum sprawls in an old recliner with a fabric heating pad across its lap, its human hand gripping the TV remote, enormous plain fountain drink beside it, sleepy satisfaction.",
+    "tags": [
+      "chill",
+      "opossum",
+      "recliner",
+      "remote",
+      "drink",
+      "evening"
+    ],
+    "image": "images/big-plans-opossum.jpg",
+    "thumbnail": "images/big-plans-opossum-thumb.webp"
+  },
+  {
+    "id": "let-him-cook",
+    "title": "let him cook",
+    "alt": "Three adult animals in a cramped ordinary kitchen: a raccoon uses human hands to stir a questionable thick mixture in a saucepan while a cat and a capybara sit side by side at the tiny table, silently watching with neutral skeptical faces. Clearly three distinct bodies.",
+    "tags": [
+      "chill",
+      "raccoon",
+      "cat",
+      "capybara",
+      "kitchen",
+      "cooking",
+      "skeptical"
+    ],
+    "image": "images/let-him-cook.jpg",
+    "thumbnail": "images/let-him-cook-thumb.webp"
+  },
+  {
+    "id": "spiritually-correct-ferret",
+    "title": "spiritually correct",
+    "alt": "An adult ferret lounges on the floor beside a comically large but entirely normal new stereo speaker in an otherwise nearly empty apartment, human hands behind its head, pleased with its purchase.",
+    "tags": [
+      "chill",
+      "ferret",
+      "speaker",
+      "apartment",
+      "pleased"
+    ],
+    "image": "images/spiritually-correct-ferret.jpg",
+    "thumbnail": "images/spiritually-correct-ferret-thumb.webp"
+  },
+  {
+    "id": "figure-it-out",
+    "title": "we will figure it out",
+    "alt": "Two adult raccoons sit slouched together on a curb beside an ordinary broken-down car with hood raised, sharing a carton of fries with their human hands, relaxed resignation. Exactly two animals.",
+    "tags": [
+      "chill",
+      "raccoon",
+      "duo",
+      "car",
+      "fries",
+      "resigned"
+    ],
+    "image": "images/figure-it-out.jpg",
+    "thumbnail": "images/figure-it-out-thumb.webp"
+  },
+  {
+    "id": "serious-menu-cat",
+    "title": "taking this seriously",
+    "alt": "An adult tuxedo cat in reading glasses sits at a kitchen table studying a folded takeout menu, one human finger marking its place, solemn focus. Menu marks are small blurred print, no legible words.",
+    "tags": [
+      "chill",
+      "cat",
+      "menu",
+      "glasses",
+      "serious",
+      "food"
+    ],
+    "image": "images/serious-menu-cat.jpg",
+    "thumbnail": "images/serious-menu-cat-thumb.webp"
+  },
+  {
+    "id": "mentally-gone-otter",
+    "title": "already mentally gone",
+    "alt": "An adult otter sits slumped in a bland office chair wearing its jacket with a tote bag already in its lap, human hands resting on bag handles, staring toward the exit with vacant exhausted patience.",
+    "tags": [
+      "chill",
+      "otter",
+      "office",
+      "tired",
+      "leaving"
+    ],
+    "image": "images/mentally-gone-otter.jpg",
+    "thumbnail": "images/mentally-gone-otter-thumb.webp"
+  },
+  {
+    "id": "duo-side-eye",
+    "title": "did you hear that",
+    "alt": "An adult orange cat and a basset hound sit shoulder to shoulder on an old couch, both giving the same restrained sideways look toward something just outside the frame, drinks resting in their human hands. Exactly two animals.",
+    "tags": [
+      "chill",
+      "cat",
+      "dog",
+      "duo",
+      "disbelief",
+      "side",
+      "eye"
+    ],
+    "image": "images/duo-side-eye.jpg",
+    "thumbnail": "images/duo-side-eye-thumb.webp"
+  },
+  {
+    "id": "duo-diner-agreement",
+    "title": "exactly",
+    "alt": "An adult raccoon and an adult opossum sit opposite each other in a diner booth. Raccoon makes a small point with one human finger; opossum leans back with closed eyes and a tiny approving nod. Exactly two.",
+    "tags": [
+      "chill",
+      "raccoon",
+      "opossum",
+      "duo",
+      "diner",
+      "agreement"
+    ],
+    "image": "images/duo-diner-agreement.jpg",
+    "thumbnail": "images/duo-diner-agreement-thumb.webp"
+  },
+  {
+    "id": "duo-gossip",
+    "title": "between us",
+    "alt": "Two adult pigeons sit close together on a fire escape. One leans toward the other with its human hand cupped beside its beak as if sharing gossip; the listener gives a flat knowing stare. Exactly two.",
+    "tags": [
+      "chill",
+      "pigeon",
+      "duo",
+      "gossip",
+      "fire",
+      "escape"
+    ],
+    "image": "images/duo-gossip.jpg",
+    "thumbnail": "images/duo-gossip-thumb.webp"
+  },
+  {
+    "id": "duo-not-listening",
+    "title": "uh huh",
+    "alt": "An adult ferret on a couch talks with an expansive human-hand gesture while an adult capybara beside it stares blankly at the television, loosely holding a remote. Exactly two.",
+    "tags": [
+      "chill",
+      "ferret",
+      "capybara",
+      "duo",
+      "couch",
+      "distracted"
+    ],
+    "image": "images/duo-not-listening.jpg",
+    "thumbnail": "images/duo-not-listening-thumb.webp"
+  },
+  {
+    "id": "duo-last-fries",
+    "title": "you having those",
+    "alt": "An adult otter and a gray tabby sit at a cheap plastic food-court table. Both reach one human hand toward the same last fry, pausing to look at each other with mild suspicion. Exactly two animals, two reaching hands.",
+    "tags": [
+      "chill",
+      "otter",
+      "cat",
+      "duo",
+      "fries",
+      "suspicious"
+    ],
+    "image": "images/duo-last-fries.jpg",
+    "thumbnail": "images/duo-last-fries-thumb.webp"
+  },
+  {
+    "id": "duo-bad-plan",
+    "title": "seems reasonable",
+    "alt": "Two adult raccoons sit in lawn chairs in a cluttered garage, one holding a roll of duct tape in its human hand and gesturing toward a battered lawnmower, the other calmly raising a beer in approval. Exactly two.",
+    "tags": [
+      "chill",
+      "raccoon",
+      "duo",
+      "garage",
+      "beer",
+      "plan"
+    ],
+    "image": "images/duo-bad-plan.jpg",
+    "thumbnail": "images/duo-bad-plan-thumb.webp"
+  },
+  {
+    "id": "duo-silence",
+    "title": "comfortable silence",
+    "alt": "An adult basset hound and capybara sit well settled in adjacent porch chairs, looking outward in different directions, each holding coffee in a human hand, no need to talk. Exactly two.",
+    "tags": [
+      "chill",
+      "dog",
+      "capybara",
+      "duo",
+      "porch",
+      "coffee",
+      "quiet"
+    ],
+    "image": "images/duo-silence.jpg",
+    "thumbnail": "images/duo-silence-thumb.webp"
+  },
+  {
+    "id": "duo-laundry",
+    "title": "still damp",
+    "alt": "An adult gray cat and a raccoon slump on adjacent laundromat chairs staring at a dryer, their human arms loosely crossed, matching patient defeated expressions. Exactly two.",
+    "tags": [
+      "chill",
+      "cat",
+      "raccoon",
+      "duo",
+      "laundromat",
+      "waiting"
+    ],
+    "image": "images/duo-laundry.jpg",
+    "thumbnail": "images/duo-laundry-thumb.webp"
+  },
+  {
+    "id": "duo-kitchen-debrief",
+    "title": "long night",
+    "alt": "An adult orange cat and an otter sit on a kitchen floor against lower cabinets late at night, human hands holding slices of leftover pizza, sharing a tired knowing glance. Exactly two.",
+    "tags": [
+      "chill",
+      "cat",
+      "otter",
+      "duo",
+      "kitchen",
+      "pizza",
+      "tired"
+    ],
+    "image": "images/duo-kitchen-debrief.jpg",
+    "thumbnail": "images/duo-kitchen-debrief-thumb.webp"
+  },
+  {
+    "id": "duo-no-bites",
+    "title": "good day anyway",
+    "alt": "An adult frog and capybara sit on low stools beside an ordinary pond holding fishing rods with human hands, empty bucket between them, completely content despite catching nothing. Exactly two.",
+    "tags": [
+      "chill",
+      "frog",
+      "capybara",
+      "duo",
+      "fishing",
+      "content"
+    ],
+    "image": "images/duo-no-bites.jpg",
+    "thumbnail": "images/duo-no-bites-thumb.webp"
+  },
+  {
+    "id": "duo-elevator",
+    "title": "act normal",
+    "alt": "An adult pigeon and raccoon stand side by side in a scuffed elevator, rigidly facing forward with suppressed amusement, their human hands folded politely at waist height. Exactly two.",
+    "tags": [
+      "chill",
+      "pigeon",
+      "raccoon",
+      "duo",
+      "elevator",
+      "awkward"
+    ],
+    "image": "images/duo-elevator.jpg",
+    "thumbnail": "images/duo-elevator-thumb.webp"
+  },
+  {
+    "id": "duo-couch-space",
+    "title": "plenty of room",
+    "alt": "An adult basset hound occupies almost the entire couch with its human feet stretched out while a small adult ferret calmly perches in the remaining narrow corner, both watching TV. Exactly two.",
+    "tags": [
+      "chill",
+      "dog",
+      "ferret",
+      "duo",
+      "couch",
+      "television"
+    ],
+    "image": "images/duo-couch-space.jpg",
+    "thumbnail": "images/duo-couch-space-thumb.webp"
+  },
+  {
+    "id": "duo-check",
+    "title": "your turn",
+    "alt": "An adult tuxedo cat and opossum sit at a diner table with a tiny folded bill on a saucer between them, each casually looking away in opposite directions, human hands safely tucked in laps. Exactly two.",
+    "tags": [
+      "chill",
+      "cat",
+      "opossum",
+      "duo",
+      "diner",
+      "bill",
+      "awkward"
+    ],
+    "image": "images/duo-check.jpg",
+    "thumbnail": "images/duo-check-thumb.webp"
+  },
+  {
+    "id": "duo-sunglasses",
+    "title": "management",
+    "alt": "An adult capybara and a pigeon wear tiny sunglasses in adjacent cheap pool chairs, human legs stretched out, looking completely unavailable, plain drinks on the table between them. Exactly two.",
+    "tags": [
+      "chill",
+      "capybara",
+      "pigeon",
+      "duo",
+      "pool",
+      "sunglasses"
+    ],
+    "image": "images/duo-sunglasses.jpg",
+    "thumbnail": "images/duo-sunglasses-thumb.webp"
+  },
+  {
+    "id": "duo-weather",
+    "title": "give it a minute",
+    "alt": "An adult raccoon and a gray cat shelter under a narrow shop awning during ordinary heavy rain, holding coffee in human hands, both staring resignedly at the wet sidewalk. Exactly two.",
+    "tags": [
+      "chill",
+      "raccoon",
+      "cat",
+      "duo",
+      "rain",
+      "coffee",
+      "waiting"
+    ],
+    "image": "images/duo-weather.jpg",
+    "thumbnail": "images/duo-weather-thumb.webp"
+  },
+  {
+    "id": "duo-missed-bus",
+    "title": "next one",
+    "alt": "An adult opossum and basset hound sit slouched at a normal bus stop at dusk as an ordinary bus is seen receding far down the street. Both look entirely unhurried, human hands on knees. Exactly two.",
+    "tags": [
+      "chill",
+      "opossum",
+      "dog",
+      "duo",
+      "bus",
+      "waiting",
+      "resigned"
+    ],
+    "image": "images/duo-missed-bus.jpg",
+    "thumbnail": "images/duo-missed-bus-thumb.webp"
+  },
+  {
+    "id": "duo-moral-support",
+    "title": "you got this",
+    "alt": "An adult frog sits in an old barber chair under a towel while an adult raccoon sits alongside on a waiting chair giving a relaxed human thumbs-up, both calmly serious. Exactly two.",
+    "tags": [
+      "chill",
+      "frog",
+      "raccoon",
+      "duo",
+      "barber",
+      "support",
+      "thumbs",
+      "up"
+    ],
+    "image": "images/duo-moral-support.jpg",
+    "thumbnail": "images/duo-moral-support-thumb.webp"
+  },
+  {
+    "id": "duo-balcony-debrief",
+    "title": "so anyway",
+    "alt": "An adult orange cat and a pigeon lounge on a small apartment balcony at night, cat holding a cigarette with a human hand, pigeon holding a plain double white Styrofoam cup, relaxed conspiratorial eye contact. Exactly two.",
+    "tags": [
+      "chill",
+      "cat",
+      "pigeon",
+      "duo",
+      "balcony",
+      "cigarette",
+      "smoking",
+      "cup",
+      "lean"
+    ],
+    "image": "images/duo-balcony-debrief.jpg",
+    "thumbnail": "images/duo-balcony-debrief-thumb.webp"
+  },
+  {
+    "id": "duo-shared-headphones",
+    "title": "this part",
+    "alt": "An adult quokka and otter sit shoulder to shoulder on a park bench, each with one wired earbud from the same old music player. Quokka raises a human finger to signal a favorite moment; otter listens with contented closed eyes. Exactly two.",
+    "tags": [
+      "chill",
+      "quokka",
+      "otter",
+      "duo",
+      "music",
+      "listening"
+    ],
+    "image": "images/duo-shared-headphones.jpg",
+    "thumbnail": "images/duo-shared-headphones-thumb.webp"
+  },
+  {
+    "id": "duo-done-for-day",
+    "title": "we did enough",
+    "alt": "An adult capybara and opossum sit in camping chairs beside a half-painted ordinary backyard fence, roller tray abandoned nearby, human hands holding cold drinks, pleased with very modest progress. Exactly two.",
+    "tags": [
+      "chill",
+      "capybara",
+      "opossum",
+      "duo",
+      "backyard",
+      "drinks",
+      "done"
+    ],
+    "image": "images/duo-done-for-day.jpg",
+    "thumbnail": "images/duo-done-for-day-thumb.webp"
+  },
+  {
     "id": "laundromat-cat",
     "title": "spin cycle",
     "alt": "An adult gray tabby slouches on a molded plastic laundromat chair, its own human hands folded loosely over its belly, watching the dryer with sleepy half-closed eyes.",
