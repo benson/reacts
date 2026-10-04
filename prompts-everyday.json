@@ -1,0 +1,155 @@
+{
+  "mode": "Built-in image_gen",
+  "base": "Single square photoreal early-2000s fisheye POV snapshot. MAXIMUM CHILL: completely at ease, zero tension, cozy, sleepy, unbothered. An adult animal with surreal human features attached naturally to its own body. Close wide-angle lens with strong barrel distortion and soft dark corners, warm ambient light plus direct point-and-shoot flash, slightly grainy 2003 digital-camera texture. Real fur or skin and entirely real mundane surroundings. Candid goofy photo, not cartoon or illustration. No lettering, slogans, posters, labels, watermark or collage; plain unbranded objects. Scene: ",
+  "scenes": [
+    {
+      "id": "laundromat-cat",
+      "title": "spin cycle",
+      "scene": "An adult gray tabby slouches on a molded plastic laundromat chair, its own human hands folded loosely over its belly, watching the dryer with sleepy half-closed eyes.",
+      "tags": [
+        "chill",
+        "cat",
+        "laundromat",
+        "hands",
+        "sleepy"
+      ]
+    },
+    {
+      "id": "diner-raccoon",
+      "title": "usual order",
+      "scene": "An adult raccoon sunk into a cracked red diner booth, its own human hand loosely holding a thick white coffee mug, elbow on the table, half-eaten toast nearby.",
+      "tags": [
+        "chill",
+        "raccoon",
+        "diner",
+        "coffee",
+        "breakfast"
+      ]
+    },
+    {
+      "id": "stoop-basset",
+      "title": "off the clock",
+      "scene": "An adult basset hound sprawled on brownstone steps at dusk, wearing a loose white undershirt, its own human hand holding a cigarette away from its face, completely relaxed droopy eyes.",
+      "tags": [
+        "chill",
+        "dog",
+        "basset",
+        "stoop",
+        "cigarette",
+        "smoking"
+      ]
+    },
+    {
+      "id": "pool-capybara",
+      "title": "pool hours",
+      "scene": "An adult capybara melting into a cheap poolside deckchair, tiny dark sunglasses, its own human feet crossed at the ankles in rubber slides, a plain beer bottle by the chair.",
+      "tags": [
+        "chill",
+        "capybara",
+        "pool",
+        "sunglasses",
+        "feet",
+        "beer"
+      ]
+    },
+    {
+      "id": "midnight-otter",
+      "title": "midnight snack",
+      "scene": "An adult otter sitting on the kitchen floor against the refrigerator in warm midnight light, its own human hand holding a slice of cold pizza, blissfully sleepy.",
+      "tags": [
+        "chill",
+        "otter",
+        "kitchen",
+        "pizza",
+        "snack"
+      ]
+    },
+    {
+      "id": "balcony-pigeon",
+      "title": "balcony break",
+      "scene": "An adult pigeon lounging in a battered folding chair on a small apartment balcony, its own long human legs stretched out in old sneakers, calm sideways glance, ordinary brick buildings behind.",
+      "tags": [
+        "chill",
+        "pigeon",
+        "balcony",
+        "legs",
+        "sneakers"
+      ]
+    },
+    {
+      "id": "porch-opossum",
+      "title": "porch weather",
+      "scene": "An adult opossum lounging sideways in a sagging porch armchair, its own human hand holding a plain iced tea glass, tail hanging over the cushion, warm humid evening.",
+      "tags": [
+        "chill",
+        "opossum",
+        "porch",
+        "tea",
+        "chair"
+      ]
+    },
+    {
+      "id": "fishing-frog",
+      "title": "no bites",
+      "scene": "An adult frog on a tiny folding stool at an ordinary pond, its own human hands resting loosely on a fishing rod, sleepy contented face, bucket beside its sneakers.",
+      "tags": [
+        "chill",
+        "frog",
+        "fishing",
+        "pond",
+        "sneakers"
+      ]
+    },
+    {
+      "id": "barber-cat",
+      "title": "just a trim",
+      "scene": "An adult tuxedo cat reclines far back in an old barber chair, a white towel around its neck, its own human hands resting on the armrests, eyes nearly closed with absolute contentment.",
+      "tags": [
+        "chill",
+        "cat",
+        "barber",
+        "towel",
+        "hands"
+      ]
+    },
+    {
+      "id": "garage-ferret",
+      "title": "garage time",
+      "scene": "An adult ferret in a loose faded tee sits low in a rolling garage chair, its own human hand holding a plain beer can, sneakers stretched toward the camera, ordinary cluttered tools and a parked car behind.",
+      "tags": [
+        "chill",
+        "ferret",
+        "garage",
+        "beer",
+        "sneakers"
+      ]
+    },
+    {
+      "id": "corner-store-cat",
+      "title": "corner store",
+      "scene": "An adult orange cat wearing a plain gold chain slouches on a milk crate outside a corner store at night, its own human hand holding two stacked plain white Styrofoam cups, heavy relaxed eyelids.",
+      "tags": [
+        "chill",
+        "cat",
+        "cup",
+        "lean",
+        "styrofoam",
+        "chain",
+        "street"
+      ]
+    },
+    {
+      "id": "couch-quokka",
+      "title": "one more episode",
+      "scene": "An adult quokka deeply sunk into a worn sofa, its own human hand loosely holding a TV remote on its belly, one socked human foot on the coffee table, only the glow of a television and on-camera flash.",
+      "tags": [
+        "chill",
+        "quokka",
+        "couch",
+        "remote",
+        "television",
+        "feet"
+      ]
+    }
+  ]
+}

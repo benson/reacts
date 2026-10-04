@@ -3,17 +3,17 @@ async page => {
   const errors = [];
   page.on('pageerror', error => errors.push(error.message));
   await page.reload();
-  await page.waitForFunction(() => document.querySelectorAll('.card').length === 41);
+  await page.waitForFunction(() => document.querySelectorAll('.card').length === 53);
   check((await page.locator('body').innerText()).trim() === 'reacts', 'No unnecessary gallery copy');
   const search = page.getByRole('searchbox', {name:'Search reactions'});
   await search.fill('cats');
-  check(await page.locator('.card').count() === 13, 'Plural cat search');
+  check(await page.locator('.card').count() === 16, 'Plural cat search');
   await search.fill('lean cup');
-  check(await page.locator('.card').count() === 3, 'New cup images searchable');
+  check(await page.locator('.card').count() === 4, 'New cup images searchable');
   await page.reload();
-  await page.waitForFunction(() => document.querySelectorAll('.card').length === 3);
+  await page.waitForFunction(() => document.querySelectorAll('.card').length === 4);
   await search.fill('smoking');
-  check(await page.locator('.card').count() === 5, 'New smoking images searchable');
+  check(await page.locator('.card').count() === 6, 'New smoking images searchable');
   await search.fill('no-such-animal-123');
   check(await page.getByText('No results.',{exact:true}).isVisible(), 'Empty state');
   await search.fill('');
@@ -41,5 +41,6 @@ async page => {
   await page.emulateMedia({colorScheme:'light'});
   await page.screenshot({path:'output/desktop.png'});
   check(errors.length===0, errors.join('\n'));
-  return 'Passed: 41 images, minimal copy, search, new image tags, empty state, URL persistence, preview, clipboard, download, Escape, mobile layout and both themes; no page errors.';
+  return 'Passed: 53 images, minimal copy, search, new image tags, empty state, URL persistence, preview, clipboard, download, Escape, mobile layout and both themes; no page errors.';
 }
+

@@ -1,5 +1,178 @@
 [
   {
+    "id": "laundromat-cat",
+    "title": "spin cycle",
+    "alt": "An adult gray tabby slouches on a molded plastic laundromat chair, its own human hands folded loosely over its belly, watching the dryer with sleepy half-closed eyes.",
+    "tags": [
+      "chill",
+      "cat",
+      "laundromat",
+      "hands",
+      "sleepy"
+    ],
+    "image": "images/laundromat-cat.jpg",
+    "thumbnail": "images/laundromat-cat-thumb.webp"
+  },
+  {
+    "id": "diner-raccoon",
+    "title": "usual order",
+    "alt": "An adult raccoon sunk into a cracked red diner booth, its own human hand loosely holding a thick white coffee mug, elbow on the table, half-eaten toast nearby.",
+    "tags": [
+      "chill",
+      "raccoon",
+      "diner",
+      "coffee",
+      "breakfast"
+    ],
+    "image": "images/diner-raccoon.jpg",
+    "thumbnail": "images/diner-raccoon-thumb.webp"
+  },
+  {
+    "id": "stoop-basset",
+    "title": "off the clock",
+    "alt": "An adult basset hound sprawled on brownstone steps at dusk, wearing a loose white undershirt, its own human hand holding a cigarette away from its face, completely relaxed droopy eyes.",
+    "tags": [
+      "chill",
+      "dog",
+      "basset",
+      "stoop",
+      "cigarette",
+      "smoking"
+    ],
+    "image": "images/stoop-basset.jpg",
+    "thumbnail": "images/stoop-basset-thumb.webp"
+  },
+  {
+    "id": "pool-capybara",
+    "title": "pool hours",
+    "alt": "An adult capybara melting into a cheap poolside deckchair, tiny dark sunglasses, its own human feet crossed at the ankles in rubber slides, a plain beer bottle by the chair.",
+    "tags": [
+      "chill",
+      "capybara",
+      "pool",
+      "sunglasses",
+      "feet",
+      "beer"
+    ],
+    "image": "images/pool-capybara.jpg",
+    "thumbnail": "images/pool-capybara-thumb.webp"
+  },
+  {
+    "id": "midnight-otter",
+    "title": "midnight snack",
+    "alt": "An adult otter sitting on the kitchen floor against the refrigerator in warm midnight light, its own human hand holding a slice of cold pizza, blissfully sleepy.",
+    "tags": [
+      "chill",
+      "otter",
+      "kitchen",
+      "pizza",
+      "snack"
+    ],
+    "image": "images/midnight-otter.jpg",
+    "thumbnail": "images/midnight-otter-thumb.webp"
+  },
+  {
+    "id": "balcony-pigeon",
+    "title": "balcony break",
+    "alt": "An adult pigeon lounging in a battered folding chair on a small apartment balcony, its own long human legs stretched out in old sneakers, calm sideways glance, ordinary brick buildings behind.",
+    "tags": [
+      "chill",
+      "pigeon",
+      "balcony",
+      "legs",
+      "sneakers"
+    ],
+    "image": "images/balcony-pigeon.jpg",
+    "thumbnail": "images/balcony-pigeon-thumb.webp"
+  },
+  {
+    "id": "porch-opossum",
+    "title": "porch weather",
+    "alt": "An adult opossum lounging sideways in a sagging porch armchair, its own human hand holding a plain iced tea glass, tail hanging over the cushion, warm humid evening.",
+    "tags": [
+      "chill",
+      "opossum",
+      "porch",
+      "tea",
+      "chair"
+    ],
+    "image": "images/porch-opossum.jpg",
+    "thumbnail": "images/porch-opossum-thumb.webp"
+  },
+  {
+    "id": "fishing-frog",
+    "title": "no bites",
+    "alt": "An adult frog on a tiny folding stool at an ordinary pond, its own human hands resting loosely on a fishing rod, sleepy contented face, bucket beside its sneakers.",
+    "tags": [
+      "chill",
+      "frog",
+      "fishing",
+      "pond",
+      "sneakers"
+    ],
+    "image": "images/fishing-frog.jpg",
+    "thumbnail": "images/fishing-frog-thumb.webp"
+  },
+  {
+    "id": "barber-cat",
+    "title": "just a trim",
+    "alt": "An adult tuxedo cat reclines far back in an old barber chair, a white towel around its neck, its own human hands resting on the armrests, eyes nearly closed with absolute contentment.",
+    "tags": [
+      "chill",
+      "cat",
+      "barber",
+      "towel",
+      "hands"
+    ],
+    "image": "images/barber-cat.jpg",
+    "thumbnail": "images/barber-cat-thumb.webp"
+  },
+  {
+    "id": "garage-ferret",
+    "title": "garage time",
+    "alt": "An adult ferret in a loose faded tee sits low in a rolling garage chair, its own human hand holding a plain beer can, sneakers stretched toward the camera, ordinary cluttered tools and a parked car behind.",
+    "tags": [
+      "chill",
+      "ferret",
+      "garage",
+      "beer",
+      "sneakers"
+    ],
+    "image": "images/garage-ferret.jpg",
+    "thumbnail": "images/garage-ferret-thumb.webp"
+  },
+  {
+    "id": "corner-store-cat",
+    "title": "corner store",
+    "alt": "An adult orange cat wearing a plain gold chain slouches on a milk crate outside a corner store at night, its own human hand holding two stacked plain white Styrofoam cups, heavy relaxed eyelids.",
+    "tags": [
+      "chill",
+      "cat",
+      "cup",
+      "lean",
+      "styrofoam",
+      "chain",
+      "street"
+    ],
+    "image": "images/corner-store-cat.jpg",
+    "thumbnail": "images/corner-store-cat-thumb.webp"
+  },
+  {
+    "id": "couch-quokka",
+    "title": "one more episode",
+    "alt": "An adult quokka deeply sunk into a worn sofa, its own human hand loosely holding a TV remote on its belly, one socked human foot on the coffee table, only the glow of a television and on-camera flash.",
+    "tags": [
+      "chill",
+      "quokka",
+      "couch",
+      "remote",
+      "television",
+      "feet"
+    ],
+    "image": "images/couch-quokka.jpg",
+    "thumbnail": "images/couch-quokka-thumb.webp"
+  },
+  {
     "id": "hammock-cat",
     "title": "hammock cat",
     "alt": "An orange tabby sunk deep in a backyard hammock, its own human hands loosely folded behind its head, eyelids almost closed.",
