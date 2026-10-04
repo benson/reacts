@@ -1,6 +1,6 @@
 # reacts
 
-A searchable collection of 185 surreal animal reaction photographs at https://reacts.bensonperry.com. The minimal layout follows the concerts site: a narrow column, system type, neutral colors, search, and images.
+A searchable collection of 235 surreal animal reaction photographs at https://reacts.bensonperry.com. The minimal layout follows the concerts site: a narrow column, system type, neutral colors, search, and images.
 
 ## Local use
 
@@ -13,6 +13,7 @@ Run `npm run dev`, then open http://127.0.0.1:4187. No runtime dependencies or i
 - `originals/`: full-resolution generated PNGs, including the original thumbs-up cat.
 - `images/`: optimized JPEG downloads and WebP gallery thumbnails.
 - `collection.json`: titles, descriptions, search tags and image paths.
+- `prompts-cat-hobbies.json`: 50 more gray tabby scenes featuring computer games, naps, Magic: The Gathering, and cozy hobbies.
 - `prompts-gray-cat.json`: 50 scenes starring the gray tabby from the bookshelf fist bump, generated with that image as the character reference.
 - `prompts.json`: the shared style prompt and all 20 new scene prompts, generated with the built-in image generation tool.
 - `prompts-max-chill.json`: the second batch of 20 scenes, including smoking, drinks, and double cups.

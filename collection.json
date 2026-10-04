@@ -1,5 +1,928 @@
 [
   {
+    "id": "cat-pc-night",
+    "title": "one more match",
+    "alt": "He sits at a cluttered computer desk playing a PC game, one human hand on mouse and the other on keyboard, headset over ears, blue monitor glow, relaxed half-lidded face visible in three-quarter view.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "gaming",
+      "computer",
+      "pc",
+      "headset",
+      "night"
+    ],
+    "image": "images/cat-pc-night.jpg",
+    "thumbnail": "images/cat-pc-night-thumb.webp"
+  },
+  {
+    "id": "cat-duvet-nap",
+    "title": "do not disturb",
+    "alt": "He naps on his side in a rumpled bed, eyes fully closed, same distinctive broad face, one tiny human hand outside the sage duvet, head sunk into a pillow, cozy afternoon.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "sleep",
+      "nap",
+      "bed",
+      "duvet",
+      "cozy"
+    ],
+    "image": "images/cat-duvet-nap.jpg",
+    "thumbnail": "images/cat-duvet-nap-thumb.webp"
+  },
+  {
+    "id": "cat-mtg-kitchen",
+    "title": "your move",
+    "alt": "He plays Magic: The Gathering at a kitchen table, fanning seven sleeved fantasy trading cards in tiny human hands, tidy battlefield of lands and creatures on a playmat, deck box and life-counter dice. View across table toward his face.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "mtg",
+      "magic",
+      "cards",
+      "tabletop",
+      "gaming"
+    ],
+    "image": "images/cat-mtg-kitchen.jpg",
+    "thumbnail": "images/cat-mtg-kitchen-thumb.webp"
+  },
+  {
+    "id": "cat-pc-snack",
+    "title": "between rounds",
+    "alt": "He leans back in his computer chair taking a potato chip from a bowl with a human hand, paused PC game on monitor, keyboard and mouse nearby, amused squint.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "gaming",
+      "computer",
+      "pc",
+      "snacks"
+    ],
+    "image": "images/cat-pc-snack.jpg",
+    "thumbnail": "images/cat-pc-snack-thumb.webp"
+  },
+  {
+    "id": "cat-pillow-fort",
+    "title": "occupied",
+    "alt": "He relaxes inside a simple blanket fort on his bed, face peeking between pillows, small human hands wrapped around a warm mug, lamp light.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "bed",
+      "blanket",
+      "fort",
+      "cozy"
+    ],
+    "image": "images/cat-pillow-fort.jpg",
+    "thumbnail": "images/cat-pillow-fort-thumb.webp"
+  },
+  {
+    "id": "cat-mtg-deckbuild",
+    "title": "making cuts",
+    "alt": "He builds a Magic: The Gathering deck at a wooden desk, sorting sleeved fantasy cards into short piles with tiny human hands, open card binder and plain deck box, concentrated but laid-back.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "mtg",
+      "magic",
+      "deckbuilding",
+      "cards",
+      "hobby"
+    ],
+    "image": "images/cat-mtg-deckbuild.jpg",
+    "thumbnail": "images/cat-mtg-deckbuild-thumb.webp"
+  },
+  {
+    "id": "cat-keyboard-close",
+    "title": "locked in",
+    "alt": "Close fisheye at desk height: his broad gray face above a mechanical keyboard, human hands on WASD keys and mouse, old monitor showing a colorful PC adventure game, tiny headset mic.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "gaming",
+      "computer",
+      "pc",
+      "keyboard"
+    ],
+    "image": "images/cat-keyboard-close.jpg",
+    "thumbnail": "images/cat-keyboard-close-thumb.webp"
+  },
+  {
+    "id": "cat-bed-sunbeam",
+    "title": "solar charging",
+    "alt": "He sleeps on his back atop a quilt in a patch of afternoon sun, belly up, tiny human hands folded loosely over chest, eyes closed, same broad gray tabby face.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "sleep",
+      "nap",
+      "bed",
+      "sunbeam"
+    ],
+    "image": "images/cat-bed-sunbeam.jpg",
+    "thumbnail": "images/cat-bed-sunbeam-thumb.webp"
+  },
+  {
+    "id": "cat-mtg-lgs",
+    "title": "friday night",
+    "alt": "He sits at a game-store folding table playing Magic: The Gathering, holds a small hand of sleeved cards, colorful playmat and dice, shelves of tabletop boxes behind him, relaxed confident grin. Only him in frame.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "mtg",
+      "magic",
+      "lgs",
+      "cards",
+      "friday",
+      "gaming"
+    ],
+    "image": "images/cat-mtg-lgs.jpg",
+    "thumbnail": "images/cat-mtg-lgs-thumb.webp"
+  },
+  {
+    "id": "cat-laptop-couch",
+    "title": "portable setup",
+    "alt": "He lounges sideways on a worn couch playing a strategy game on a laptop balanced on a cushion, human hand on trackpad, slippered feet up, comfy hoodie.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "gaming",
+      "computer",
+      "laptop",
+      "couch"
+    ],
+    "image": "images/cat-laptop-couch.jpg",
+    "thumbnail": "images/cat-laptop-couch-thumb.webp"
+  },
+  {
+    "id": "cat-bed-book-fallen",
+    "title": "chapter two",
+    "alt": "He has fallen asleep in bed with a paperback resting open on his belly, tiny human hand still holding one page, reading glasses crooked, lamp and water glass.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "sleep",
+      "nap",
+      "bed",
+      "reading",
+      "book"
+    ],
+    "image": "images/cat-bed-book-fallen.jpg",
+    "thumbnail": "images/cat-bed-book-fallen-thumb.webp"
+  },
+  {
+    "id": "cat-mtg-shuffle",
+    "title": "cut the deck",
+    "alt": "He casually shuffles a thick sleeved Magic: The Gathering deck with tiny human hands above a playmat, close view including his half-lidded face, dice and deck box.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "mtg",
+      "magic",
+      "shuffling",
+      "cards",
+      "gaming"
+    ],
+    "image": "images/cat-mtg-shuffle.jpg",
+    "thumbnail": "images/cat-mtg-shuffle-thumb.webp"
+  },
+  {
+    "id": "cat-pc-victory",
+    "title": "easy game",
+    "alt": "He sits back from a PC gaming desk giving a small human thumbs-up, faint satisfied smirk, keyboard and mouse in foreground, monitor shows a generic victory screen with no readable text needed.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "gaming",
+      "computer",
+      "pc",
+      "victory",
+      "thumbs-up"
+    ],
+    "image": "images/cat-pc-victory.jpg",
+    "thumbnail": "images/cat-pc-victory-thumb.webp"
+  },
+  {
+    "id": "cat-nap-sideways",
+    "title": "five more minutes",
+    "alt": "He naps diagonally across an unmade bed, one leg hanging off mattress, face pressed into pillow, small human hand dangling, midday natural light plus flash.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "sleep",
+      "nap",
+      "bed",
+      "lazy"
+    ],
+    "image": "images/cat-nap-sideways.jpg",
+    "thumbnail": "images/cat-nap-sideways-thumb.webp"
+  },
+  {
+    "id": "cat-mtg-pack",
+    "title": "good pull",
+    "alt": "He opens a Magic: The Gathering booster at a kitchen table, tiny human hands holding one shiny foil fantasy trading card up toward the camera, torn wrapper and cards below, quietly pleased squint.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "mtg",
+      "magic",
+      "booster",
+      "foil",
+      "cards"
+    ],
+    "image": "images/cat-mtg-pack.jpg",
+    "thumbnail": "images/cat-mtg-pack-thumb.webp"
+  },
+  {
+    "id": "cat-headphones-album",
+    "title": "whole album",
+    "alt": "He sprawls on the rug in big over-ear headphones listening to music, one human hand resting on a portable music player, record sleeves and floor cushions nearby.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "music",
+      "headphones",
+      "home"
+    ],
+    "image": "images/cat-headphones-album.jpg",
+    "thumbnail": "images/cat-headphones-album-thumb.webp"
+  },
+  {
+    "id": "cat-pc-morning",
+    "title": "early queue",
+    "alt": "He plays a PC game in a bathrobe at a compact bedroom desk, one human hand on mouse and the other around coffee mug, early daylight through blinds, broad sleepy face.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "gaming",
+      "computer",
+      "pc",
+      "morning",
+      "coffee"
+    ],
+    "image": "images/cat-pc-morning.jpg",
+    "thumbnail": "images/cat-pc-morning-thumb.webp"
+  },
+  {
+    "id": "cat-bed-rain",
+    "title": "rain check",
+    "alt": "He is snug in bed while rain streaks the window, tucked under quilt to the chin with tiny human hands resting on top, peacefully half asleep, cozy warm bedside lamp.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "sleep",
+      "nap",
+      "bed",
+      "rain",
+      "cozy"
+    ],
+    "image": "images/cat-bed-rain.jpg",
+    "thumbnail": "images/cat-bed-rain-thumb.webp"
+  },
+  {
+    "id": "cat-mtg-counterspell",
+    "title": "in response",
+    "alt": "He sits at a Magic: The Gathering playmat casually presenting one blue-framed sleeved fantasy card with a tiny human hand, other hand holds remaining cards, knowing half-lidded smirk, lands and dice on table.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "mtg",
+      "magic",
+      "blue",
+      "counterspell",
+      "cards"
+    ],
+    "image": "images/cat-mtg-counterspell.jpg",
+    "thumbnail": "images/cat-mtg-counterspell-thumb.webp"
+  },
+  {
+    "id": "cat-puzzle-table",
+    "title": "found the piece",
+    "alt": "He works on a half-finished jigsaw puzzle on a coffee table, holding a single piece in his tiny human hand, lying comfortably on the rug, unfazed expression.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "puzzle",
+      "hobby",
+      "home"
+    ],
+    "image": "images/cat-puzzle-table.jpg",
+    "thumbnail": "images/cat-puzzle-table-thumb.webp"
+  },
+  {
+    "id": "cat-mousepad-rest",
+    "title": "queue time",
+    "alt": "He rests his broad head on one human hand at his PC desk while waiting for a game, other hand loose on mouse, keyboard lighting and drink nearby, slouched and comfortable.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "gaming",
+      "computer",
+      "pc",
+      "waiting"
+    ],
+    "image": "images/cat-mousepad-rest.jpg",
+    "thumbnail": "images/cat-mousepad-rest-thumb.webp"
+  },
+  {
+    "id": "cat-bed-sleepmask",
+    "title": "unavailable",
+    "alt": "He reclines on pillows with a sleep mask pushed up on his forehead so his recognizable face is visible, tiny human hand reaching toward snooze button of bedside alarm, deeply sleepy.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "sleep",
+      "nap",
+      "bed",
+      "snooze"
+    ],
+    "image": "images/cat-bed-sleepmask.jpg",
+    "thumbnail": "images/cat-bed-sleepmask-thumb.webp"
+  },
+  {
+    "id": "cat-mtg-sleeves",
+    "title": "new sleeves",
+    "alt": "He carefully slides fantasy Magic: The Gathering cards into fresh matte sleeves at a kitchen table, tiny human fingers doing the work, neat stacks and a plain deck box, relaxed afternoon.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "mtg",
+      "magic",
+      "sleeving",
+      "cards",
+      "hobby"
+    ],
+    "image": "images/cat-mtg-sleeves.jpg",
+    "thumbnail": "images/cat-mtg-sleeves-thumb.webp"
+  },
+  {
+    "id": "cat-coop-sofa",
+    "title": "player one",
+    "alt": "He plays a PC game from a sofa using a wireless controller held by tiny human hands, monitor on a low desk visible to side, blanket over lap, quietly content.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "gaming",
+      "computer",
+      "controller",
+      "couch"
+    ],
+    "image": "images/cat-coop-sofa.jpg",
+    "thumbnail": "images/cat-coop-sofa-thumb.webp"
+  },
+  {
+    "id": "cat-bed-handheld",
+    "title": "save point",
+    "alt": "He lies propped in bed playing a small handheld game console in his human hands, blanket and pillows piled around, face lit softly by screen, late-night flash snapshot.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "gaming",
+      "handheld",
+      "bed",
+      "cozy"
+    ],
+    "image": "images/cat-bed-handheld.jpg",
+    "thumbnail": "images/cat-bed-handheld-thumb.webp"
+  },
+  {
+    "id": "cat-mtg-binder",
+    "title": "trades open",
+    "alt": "He lounges at a game shop table with an open binder of fantasy trading cards, tiny human finger pointing to one foil card, Magic deck box nearby, eyebrows mildly raised.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "mtg",
+      "magic",
+      "trading",
+      "binder",
+      "cards"
+    ],
+    "image": "images/cat-mtg-binder.jpg",
+    "thumbnail": "images/cat-mtg-binder-thumb.webp"
+  },
+  {
+    "id": "cat-pc-retro",
+    "title": "old save file",
+    "alt": "He sits at a beige CRT computer playing an old pixel role-playing game, tiny human hands at mouse and keyboard, cluttered 2000s desk, relaxed nostalgic vibe.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "gaming",
+      "computer",
+      "retro",
+      "crt"
+    ],
+    "image": "images/cat-pc-retro.jpg",
+    "thumbnail": "images/cat-pc-retro-thumb.webp"
+  },
+  {
+    "id": "cat-bed-burrito",
+    "title": "wrapped up",
+    "alt": "He is rolled loosely in a duvet on the bed like a cozy burrito, only broad gray head and one tiny human hand visible, eyes sleepily narrowed, ordinary untidy bedroom.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "sleep",
+      "nap",
+      "bed",
+      "blanket",
+      "cozy"
+    ],
+    "image": "images/cat-bed-burrito.jpg",
+    "thumbnail": "images/cat-bed-burrito-thumb.webp"
+  },
+  {
+    "id": "cat-mtg-dice",
+    "title": "math checks out",
+    "alt": "He lazily adjusts a twenty-sided life-counter die with a tiny human hand during Magic: The Gathering, battlefield of sleeved cards on playmat, his other elbow on table, confident squint.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "mtg",
+      "magic",
+      "dice",
+      "cards",
+      "gaming"
+    ],
+    "image": "images/cat-mtg-dice.jpg",
+    "thumbnail": "images/cat-mtg-dice-thumb.webp"
+  },
+  {
+    "id": "cat-mini-paint",
+    "title": "steady hands",
+    "alt": "He paints a small tabletop fantasy miniature at a hobby desk, tiny human hands holding miniature and fine brush, paint pots and paper towel, calm concentration.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "painting",
+      "miniatures",
+      "hobby",
+      "tabletop"
+    ],
+    "image": "images/cat-mini-paint.jpg",
+    "thumbnail": "images/cat-mini-paint-thumb.webp"
+  },
+  {
+    "id": "cat-pc-build",
+    "title": "runs fine",
+    "alt": "He sits beside an open desktop computer case with one tiny human hand holding a screwdriver, other resting on case edge, pleased half-lidded face, home desk and loose cables, no sparks.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "computer",
+      "pc",
+      "building",
+      "hobby"
+    ],
+    "image": "images/cat-pc-build.jpg",
+    "thumbnail": "images/cat-pc-build-thumb.webp"
+  },
+  {
+    "id": "cat-nap-pile",
+    "title": "fresh sheets",
+    "alt": "He dozes on a pile of warm folded blankets on the bed, cheek on his tiny human hand, same gray tabby face with eyes closed, laundry basket nearby.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "sleep",
+      "nap",
+      "bed",
+      "blankets"
+    ],
+    "image": "images/cat-nap-pile.jpg",
+    "thumbnail": "images/cat-nap-pile-thumb.webp"
+  },
+  {
+    "id": "cat-mtg-command",
+    "title": "command zone",
+    "alt": "He sits behind a substantial Magic: The Gathering Commander battlefield, colorful playmat, sleeved deck and a commander card separately displayed, tiny human hands holding cards, smugly relaxed face.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "mtg",
+      "magic",
+      "commander",
+      "cards",
+      "gaming"
+    ],
+    "image": "images/cat-mtg-command.jpg",
+    "thumbnail": "images/cat-mtg-command-thumb.webp"
+  },
+  {
+    "id": "cat-couch-comic",
+    "title": "good issue",
+    "alt": "He reclines on a couch reading a comic book in tiny human hands, thick socks on feet, snack bowl and floor lamp, gaze lifted toward camera.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "reading",
+      "comic",
+      "couch",
+      "home"
+    ],
+    "image": "images/cat-couch-comic.jpg",
+    "thumbnail": "images/cat-couch-comic-thumb.webp"
+  },
+  {
+    "id": "cat-pc-map",
+    "title": "taking my time",
+    "alt": "He casually plays a computer strategy game with a world map on screen, tiny human hand on mouse, chin in other hand, loose cardigan and a mug, calm home office.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "gaming",
+      "computer",
+      "strategy",
+      "pc"
+    ],
+    "image": "images/cat-pc-map.jpg",
+    "thumbnail": "images/cat-pc-map-thumb.webp"
+  },
+  {
+    "id": "cat-nap-sprawl",
+    "title": "bed claimed",
+    "alt": "He lies spread comfortably across the middle of a large rumpled bed, arms out with tiny human hands relaxed, belly up, eyes almost closed, overhead fisheye flash perspective.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "sleep",
+      "nap",
+      "bed",
+      "sprawl"
+    ],
+    "image": "images/cat-nap-sprawl.jpg",
+    "thumbnail": "images/cat-nap-sprawl-thumb.webp"
+  },
+  {
+    "id": "cat-mtg-draft",
+    "title": "pack one pick one",
+    "alt": "He sits at a table choosing from a fan of freshly opened Magic: The Gathering fantasy cards, one tiny human hand selecting a card, booster wrappers and draft piles, relaxed thoughtful squint.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "mtg",
+      "magic",
+      "draft",
+      "booster",
+      "cards"
+    ],
+    "image": "images/cat-mtg-draft.jpg",
+    "thumbnail": "images/cat-mtg-draft-thumb.webp"
+  },
+  {
+    "id": "cat-model-kit",
+    "title": "some assembly",
+    "alt": "He assembles a small plastic model robot on a desk, tiny human hands holding a part and hobby nippers, instruction sheet and sprues, calm unhurried expression.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "model",
+      "hobby",
+      "robot",
+      "home"
+    ],
+    "image": "images/cat-model-kit.jpg",
+    "thumbnail": "images/cat-model-kit-thumb.webp"
+  },
+  {
+    "id": "cat-pc-stretch",
+    "title": "loading screen",
+    "alt": "He leans back in his computer chair stretching both furry arms overhead with tiny human hands loosely clasped, PC game loading on monitor, headphones around neck, content sleepy face.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "gaming",
+      "computer",
+      "pc",
+      "stretch"
+    ],
+    "image": "images/cat-pc-stretch.jpg",
+    "thumbnail": "images/cat-pc-stretch-thumb.webp"
+  },
+  {
+    "id": "cat-bed-breakfast",
+    "title": "no plans",
+    "alt": "He sits comfortably against bed pillows with a breakfast tray holding toast and tea, tiny human hand around mug, duvet across belly, relaxed morning expression.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "bed",
+      "breakfast",
+      "tea",
+      "cozy"
+    ],
+    "image": "images/cat-bed-breakfast.jpg",
+    "thumbnail": "images/cat-bed-breakfast-thumb.webp"
+  },
+  {
+    "id": "cat-mtg-playmat",
+    "title": "table ready",
+    "alt": "He sits at a cleared kitchen table rolling out a Magic: The Gathering playmat with tiny human hands, deck boxes, sleeves and dice ready, expectant chill expression.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "mtg",
+      "magic",
+      "playmat",
+      "cards",
+      "preparation"
+    ],
+    "image": "images/cat-mtg-playmat.jpg",
+    "thumbnail": "images/cat-mtg-playmat-thumb.webp"
+  },
+  {
+    "id": "cat-desk-pasta",
+    "title": "dinner queue",
+    "alt": "He eats noodles from a bowl with a fork in his human hand at his gaming desk, other hand loose on mouse, PC game paused, cozy hoodie, relaxed face.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "gaming",
+      "computer",
+      "pc",
+      "dinner",
+      "noodles"
+    ],
+    "image": "images/cat-desk-pasta.jpg",
+    "thumbnail": "images/cat-desk-pasta-thumb.webp"
+  },
+  {
+    "id": "cat-nap-window-bed",
+    "title": "afternoon off",
+    "alt": "He lies on his side in bed beside an open window with curtains moving gently, tiny human hand under cheek, broad face peaceful with closed eyes, late afternoon.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "sleep",
+      "nap",
+      "bed",
+      "afternoon"
+    ],
+    "image": "images/cat-nap-window-bed.jpg",
+    "thumbnail": "images/cat-nap-window-bed-thumb.webp"
+  },
+  {
+    "id": "cat-mtg-good-game",
+    "title": "good game",
+    "alt": "He sits behind a Magic: The Gathering battlefield extending a tiny human fist toward camera for a friendly end-of-game fist bump, other hand rests on sleeved deck, relaxed satisfied grin.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "mtg",
+      "magic",
+      "fistbump",
+      "cards",
+      "good-game"
+    ],
+    "image": "images/cat-mtg-good-game.jpg",
+    "thumbnail": "images/cat-mtg-good-game-thumb.webp"
+  },
+  {
+    "id": "cat-crossword",
+    "title": "pencil it in",
+    "alt": "He lounges in an armchair solving a crossword with a pencil in his tiny human hand, newspaper on lap, mug on side table, reading glasses and knowing squint.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "crossword",
+      "puzzle",
+      "reading",
+      "home"
+    ],
+    "image": "images/cat-crossword.jpg",
+    "thumbnail": "images/cat-crossword-thumb.webp"
+  },
+  {
+    "id": "cat-pc-midnight",
+    "title": "last one for real",
+    "alt": "He games late at night in a dark bedroom, only monitor glow and direct camera flash, human hands on keyboard and mouse, comfortable oversized hoodie, sleepy but content gaze.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "gaming",
+      "computer",
+      "pc",
+      "midnight"
+    ],
+    "image": "images/cat-pc-midnight.jpg",
+    "thumbnail": "images/cat-pc-midnight-thumb.webp"
+  },
+  {
+    "id": "cat-bed-catnap",
+    "title": "quick reset",
+    "alt": "Close candid flash photograph of him napping with his cheek squashed into a pillow, one tiny human hand loosely curled near his nose, gray striped fur and pale muzzle, eyes fully closed.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "sleep",
+      "nap",
+      "bed",
+      "pillow"
+    ],
+    "image": "images/cat-bed-catnap.jpg",
+    "thumbnail": "images/cat-bed-catnap-thumb.webp"
+  },
+  {
+    "id": "cat-mtg-organize",
+    "title": "sorted by color",
+    "alt": "He sits on the living-room floor sorting Magic: The Gathering cards by color into a long card storage box, tiny human hands holding a small stack, cards carefully spread on rug, relaxed focus.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "mtg",
+      "magic",
+      "sorting",
+      "collection",
+      "cards"
+    ],
+    "image": "images/cat-mtg-organize.jpg",
+    "thumbnail": "images/cat-mtg-organize-thumb.webp"
+  },
+  {
+    "id": "cat-tea-stream",
+    "title": "watching the stream",
+    "alt": "He lounges at a computer desk watching a gaming livestream, tiny human hands around a mug of tea, headset around neck, feet resting on a stool, warm bedroom.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "gaming",
+      "computer",
+      "stream",
+      "tea",
+      "cozy"
+    ],
+    "image": "images/cat-tea-stream.jpg",
+    "thumbnail": "images/cat-tea-stream-thumb.webp"
+  },
+  {
+    "id": "cat-weekend-bed",
+    "title": "all caught up",
+    "alt": "He reclines in bed after a day of games, handheld console asleep on duvet beside him, tiny human hands folded on belly, eyes almost shut, warm bedside light and utterly content expression.",
+    "tags": [
+      "chill",
+      "cat",
+      "gray",
+      "tabby",
+      "single",
+      "sleep",
+      "nap",
+      "bed",
+      "gaming",
+      "cozy"
+    ],
+    "image": "images/cat-weekend-bed.jpg",
+    "thumbnail": "images/cat-weekend-bed-thumb.webp"
+  },
+  {
     "id": "cat-diner-regular",
     "title": "the usual",
     "alt": "He sits alone in a red diner booth, one human hand loosely around a coffee mug, other arm draped along the booth, looking sideways at camera.",
