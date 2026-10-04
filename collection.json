@@ -1,5 +1,157 @@
 [
   {
+    "id": "dork-approves",
+    "title": "dork approves",
+    "alt": "Dork sits comfortably on a worn sofa with belly relaxed, both natural black front paws resting on his round belly. Full face and thick shoulder rolls clear.",
+    "tags": [
+      "chill",
+      "dork",
+      "dog",
+      "pug",
+      "black",
+      "rolls",
+      "single",
+      "approval",
+      "sofa"
+    ],
+    "image": "images/dork-approves.jpg",
+    "thumbnail": "images/dork-approves-thumb.webp"
+  },
+  {
+    "id": "dork-pc",
+    "title": "dork is queued",
+    "alt": "Dork sits at a PC gaming desk, one natural black dog paw resting on keyboard and the other beside mouse, headphones behind his neck, monitor glow, looking back at camera. Ordinary short pug legs with compact dog paws.",
+    "tags": [
+      "chill",
+      "dork",
+      "dog",
+      "pug",
+      "black",
+      "rolls",
+      "single",
+      "gaming",
+      "computer",
+      "pc"
+    ],
+    "image": "images/dork-pc.jpg",
+    "thumbnail": "images/dork-pc-thumb.webp"
+  },
+  {
+    "id": "dork-bed",
+    "title": "do not disturb dork",
+    "alt": "Dork naps on his side on rumpled green bed sheets, thick shoulder and back rolls clear, eyes closed, natural short black front legs and paws tucked beneath gray chin, cozy daylight.",
+    "tags": [
+      "chill",
+      "dork",
+      "dog",
+      "pug",
+      "black",
+      "rolls",
+      "single",
+      "nap",
+      "bed",
+      "sleep"
+    ],
+    "image": "images/dork-bed.jpg",
+    "thumbnail": "images/dork-bed-thumb.webp"
+  },
+  {
+    "id": "dork-mtg",
+    "title": "dork holds priority",
+    "alt": "Dork sits at a kitchen table with a Magic: The Gathering battlefield, sleeved cards fanned out on the table in front of his two natural black dog paws, lands and dice, earnest blank stare at camera, deep neck rolls.",
+    "tags": [
+      "chill",
+      "dork",
+      "dog",
+      "pug",
+      "black",
+      "rolls",
+      "single",
+      "mtg",
+      "magic",
+      "cards",
+      "gaming"
+    ],
+    "image": "images/dork-mtg.jpg",
+    "thumbnail": "images/dork-mtg-thumb.webp"
+  },
+  {
+    "id": "dork-mug",
+    "title": "dork has time",
+    "alt": "Dork sits in a kitchen chair beside a plain ceramic coffee mug on the table, his two compact natural black front paws resting on the table edge, round belly and stacked neck rolls visible, calm morning light.",
+    "tags": [
+      "chill",
+      "dork",
+      "dog",
+      "pug",
+      "black",
+      "rolls",
+      "single",
+      "coffee",
+      "mug",
+      "morning"
+    ],
+    "image": "images/dork-mug.jpg",
+    "thumbnail": "images/dork-mug-thumb.webp"
+  },
+  {
+    "id": "dork-sideeye",
+    "title": "dork heard that",
+    "alt": "Dork sits sideways on a wooden kitchen floor looking back over his shoulder at camera, closely reproduce the pose of reference 1 and huge stacked back rolls, natural black front paws resting on floor, skeptical side-eye.",
+    "tags": [
+      "chill",
+      "dork",
+      "dog",
+      "pug",
+      "black",
+      "rolls",
+      "single",
+      "side-eye",
+      "reaction"
+    ],
+    "image": "images/dork-sideeye.jpg",
+    "thumbnail": "images/dork-sideeye-thumb.webp"
+  },
+  {
+    "id": "dork-paw",
+    "title": "dork gets it",
+    "alt": "Dork sits on a couch extending one small natural black dog paw toward the fisheye camera for a friendly paw shake, round eyes and gray muzzle behind it, other front paw rests on belly, thick neck rolls. Paw has black fur and natural claws, no human fingers.",
+    "tags": [
+      "chill",
+      "dork",
+      "dog",
+      "pug",
+      "black",
+      "rolls",
+      "single",
+      "paw",
+      "reaction",
+      "sofa"
+    ],
+    "image": "images/dork-paw.jpg",
+    "thumbnail": "images/dork-paw-thumb.webp"
+  },
+  {
+    "id": "dork-snack",
+    "title": "dork's evening",
+    "alt": "Dork lounges upright on rumpled bedding watching television out of frame, bowl of popcorn resting beside him, his short front legs and natural compact black paws resting on his round belly, visible black neck rolls, warm lamp.",
+    "tags": [
+      "chill",
+      "dork",
+      "dog",
+      "pug",
+      "black",
+      "rolls",
+      "single",
+      "snack",
+      "popcorn",
+      "bed",
+      "cozy"
+    ],
+    "image": "images/dork-snack.jpg",
+    "thumbnail": "images/dork-snack-thumb.webp"
+  },
+  {
     "id": "cat-pc-night",
     "title": "one more match",
     "alt": "He sits at a cluttered computer desk playing a PC game, one human hand on mouse and the other on keyboard, headset over ears, blue monitor glow, relaxed half-lidded face visible in three-quarter view.",

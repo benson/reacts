@@ -3,13 +3,15 @@ async page => {
   const errors = [];
   page.on('pageerror', error => errors.push(error.message));
   await page.reload();
-  await page.waitForFunction(() => document.querySelectorAll('.card').length === 235);
+  await page.waitForFunction(() => document.querySelectorAll('.card').length === 243);
   check((await page.locator('body').innerText()).trim() === 'reacts', 'No unnecessary gallery copy');
   const search = page.getByRole('searchbox', {name:'Search reactions'});
   await search.fill('cats');
   check(await page.locator('.card').count() === 140, 'Plural cat search');
+  await search.fill('dork');
+  check(await page.locator('.card').count() === 8, 'Eight Dork scenes searchable');
   await search.fill('mtg');
-  check(await page.locator('.card').count() === 14, 'Magic scenes searchable');
+  check(await page.locator('.card').count() === 15, 'Magic scenes searchable');
   await search.fill('lean cup');
   check(await page.locator('.card').count() === 8, 'New cup images searchable');
   await page.reload();
@@ -29,17 +31,17 @@ async page => {
   await search.fill('no-such-animal-123');
   check(await page.getByText('No results.',{exact:true}).isVisible(), 'Empty state');
   await search.fill('');
-  await page.getByRole('button',{name:'View one more match',exact:true}).click();
+  await page.getByRole('button',{name:'View dork approves',exact:true}).click();
   check(await page.getByRole('dialog').isVisible(),'Preview opens');
   await page.locator('#detail-image').evaluate(img=>img.decode());
   await page.context().grantPermissions(['clipboard-read','clipboard-write']);
   await page.getByRole('button',{name:'copy link',exact:true}).click();
   await page.getByRole('button',{name:'copied',exact:true}).waitFor();
-  check((await page.evaluate(()=>navigator.clipboard.readText())).endsWith('/images/cat-pc-night.jpg'),'Image link copied');
+  check((await page.evaluate(()=>navigator.clipboard.readText())).endsWith('/images/dork-approves.jpg'),'Image link copied');
   const downloadPromise=page.waitForEvent('download');
   await page.getByRole('link',{name:'download',exact:true}).click();
   const download=await downloadPromise;
-  check(download.suggestedFilename()==='cat-pc-night.jpg','Download filename');
+  check(download.suggestedFilename()==='dork-approves.jpg','Download filename');
   check(await download.failure()===null,'Download succeeds');
   await page.screenshot({path:'output/detail.png'});
   await page.keyboard.press('Escape');
@@ -53,5 +55,6 @@ async page => {
   await page.emulateMedia({colorScheme:'light'});
   await page.screenshot({path:'output/desktop.png'});
   check(errors.length===0, errors.join('\n'));
-  return 'Passed: 235 images, minimal copy, search, new image tags, empty state, URL persistence, preview, clipboard, download, Escape, mobile layout and both themes; no page errors.';
+  return 'Passed: 243 images, minimal copy, search, new image tags, empty state, URL persistence, preview, clipboard, download, Escape, mobile layout and both themes; no page errors.';
 }
+

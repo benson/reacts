@@ -1,0 +1,148 @@
+{
+  "mode": "built-in image_gen",
+  "references": [
+    "C:\\Users\\benso\\Projects\\pixel-scenes\\dork-guilty\\gen\\ref-pose.jpg",
+    "C:\\Users\\benso\\Projects\\pixel-scenes\\dork-guilty\\gen\\ref-face.jpg",
+    "C:\\Users\\benso\\Projects\\pixel-scenes\\dork-guilty\\gen2\\ref-side.jpg"
+  ],
+  "base": "Use case: photorealistic-natural. Make ONE square early-2000s candid point-and-shoot flash fisheye photograph for a surreal animal reaction gallery. All three input photos are identity references of DORK, the SAME black pug; preserve his specific face and body, not a generic pug. Glossy jet-black short coat, large round dark brown eyes, short folded ears, broad deeply wrinkled forehead, flat black nose, gray-flecked short muzzle and chin, stocky heavy barrel torso with VERY prominent repeated thick fat rolls stacked around neck, shoulders and across back, short legs. Ignore the objects/headwear in reference photos. His expression is quietly chill and a little perplexed. He has ONLY his natural short black furry pug legs and compact black dog paws with claws. Absolutely NO human hands, fingers, thumbs, human arms or human skin. Real photographic fur and skin, direct flash, strong barrel distortion, dark rounded fisheye corners, slightly grainy ordinary lived-in setting. No captions, watermark, collage, illustrations, other animals or people. Preserve visible rolls rather than hiding them in clothes. Scene: ",
+  "scenes": [
+    {
+      "id": "dork-approves",
+      "title": "dork approves",
+      "scene": "Dork sits comfortably on a worn sofa with belly relaxed, both natural black front paws resting on his round belly. Full face and thick shoulder rolls clear.",
+      "tags": [
+        "chill",
+        "dork",
+        "dog",
+        "pug",
+        "black",
+        "rolls",
+        "single",
+        "approval",
+        "sofa"
+      ]
+    },
+    {
+      "id": "dork-pc",
+      "title": "dork is queued",
+      "scene": "Dork sits at a PC gaming desk, one natural black dog paw resting on keyboard and the other beside mouse, headphones behind his neck, monitor glow, looking back at camera. Ordinary short pug legs with compact dog paws.",
+      "tags": [
+        "chill",
+        "dork",
+        "dog",
+        "pug",
+        "black",
+        "rolls",
+        "single",
+        "gaming",
+        "computer",
+        "pc"
+      ]
+    },
+    {
+      "id": "dork-bed",
+      "title": "do not disturb dork",
+      "scene": "Dork naps on his side on rumpled green bed sheets, thick shoulder and back rolls clear, eyes closed, natural short black front legs and paws tucked beneath gray chin, cozy daylight.",
+      "tags": [
+        "chill",
+        "dork",
+        "dog",
+        "pug",
+        "black",
+        "rolls",
+        "single",
+        "nap",
+        "bed",
+        "sleep"
+      ]
+    },
+    {
+      "id": "dork-mtg",
+      "title": "dork holds priority",
+      "scene": "Dork sits at a kitchen table with a Magic: The Gathering battlefield, sleeved cards fanned out on the table in front of his two natural black dog paws, lands and dice, earnest blank stare at camera, deep neck rolls.",
+      "tags": [
+        "chill",
+        "dork",
+        "dog",
+        "pug",
+        "black",
+        "rolls",
+        "single",
+        "mtg",
+        "magic",
+        "cards",
+        "gaming"
+      ]
+    },
+    {
+      "id": "dork-mug",
+      "title": "dork has time",
+      "scene": "Dork sits in a kitchen chair beside a plain ceramic coffee mug on the table, his two compact natural black front paws resting on the table edge, round belly and stacked neck rolls visible, calm morning light.",
+      "tags": [
+        "chill",
+        "dork",
+        "dog",
+        "pug",
+        "black",
+        "rolls",
+        "single",
+        "coffee",
+        "mug",
+        "morning"
+      ]
+    },
+    {
+      "id": "dork-sideeye",
+      "title": "dork heard that",
+      "scene": "Dork sits sideways on a wooden kitchen floor looking back over his shoulder at camera, closely reproduce the pose of reference 1 and huge stacked back rolls, natural black front paws resting on floor, skeptical side-eye.",
+      "tags": [
+        "chill",
+        "dork",
+        "dog",
+        "pug",
+        "black",
+        "rolls",
+        "single",
+        "side-eye",
+        "reaction",
+        "rolls"
+      ]
+    },
+    {
+      "id": "dork-paw",
+      "title": "dork gets it",
+      "scene": "Dork sits on a couch extending one small natural black dog paw toward the fisheye camera for a friendly paw shake, round eyes and gray muzzle behind it, other front paw rests on belly, thick neck rolls. Paw has black fur and natural claws, no human fingers.",
+      "tags": [
+        "chill",
+        "dork",
+        "dog",
+        "pug",
+        "black",
+        "rolls",
+        "single",
+        "paw",
+        "reaction",
+        "sofa"
+      ]
+    },
+    {
+      "id": "dork-snack",
+      "title": "dork's evening",
+      "scene": "Dork lounges upright on rumpled bedding watching television out of frame, bowl of popcorn resting beside him, his short front legs and natural compact black paws resting on his round belly, visible black neck rolls, warm lamp.",
+      "tags": [
+        "chill",
+        "dork",
+        "dog",
+        "pug",
+        "black",
+        "rolls",
+        "single",
+        "snack",
+        "popcorn",
+        "bed",
+        "cozy"
+      ]
+    }
+  ]
+}
