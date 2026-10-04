@@ -1,5 +1,329 @@
 [
   {
+    "id": "hammock-cat",
+    "title": "hammock cat",
+    "alt": "An orange tabby sunk deep in a backyard hammock, its own human hands loosely folded behind its head, eyelids almost closed.",
+    "tags": [
+      "chill",
+      "cat",
+      "hammock",
+      "hands",
+      "relaxed"
+    ],
+    "image": "images/hammock-cat.jpg",
+    "thumbnail": "images/hammock-cat-thumb.webp"
+  },
+  {
+    "id": "capybara-slippers",
+    "title": "capybara slippers",
+    "alt": "A capybara in an old recliner, its own human legs stretched onto an ottoman wearing soft house slippers, both paws resting on its belly.",
+    "tags": [
+      "chill",
+      "capybara",
+      "legs",
+      "slippers",
+      "relaxed"
+    ],
+    "image": "images/capybara-slippers.jpg",
+    "thumbnail": "images/capybara-slippers-thumb.webp"
+  },
+  {
+    "id": "frog-couch",
+    "title": "couch frog",
+    "alt": "A small green frog melting into a huge sofa cushion, its own two human hands tucked behind its head, blank contented gaze.",
+    "tags": [
+      "chill",
+      "frog",
+      "couch",
+      "hands",
+      "relaxed"
+    ],
+    "image": "images/frog-couch.jpg",
+    "thumbnail": "images/frog-couch-thumb.webp"
+  },
+  {
+    "id": "raccoon-hammock",
+    "title": "off duty",
+    "alt": "A raccoon lying sideways in a hammock, one human-shaped hand dangling limply over the edge, eyes peacefully half shut.",
+    "tags": [
+      "chill",
+      "raccoon",
+      "hammock",
+      "hand",
+      "sleepy"
+    ],
+    "image": "images/raccoon-hammock.jpg",
+    "thumbnail": "images/raccoon-hammock-thumb.webp"
+  },
+  {
+    "id": "cat-bath",
+    "title": "bath cat",
+    "alt": "A gray tabby reclines in a shallow warm bubble bath, human-shaped arms stretched casually along the tub rim, head tilted back with closed eyes.",
+    "tags": [
+      "chill",
+      "cat",
+      "bath",
+      "arms",
+      "relaxed"
+    ],
+    "image": "images/cat-bath.jpg",
+    "thumbnail": "images/cat-bath-thumb.webp"
+  },
+  {
+    "id": "wombat-recliner",
+    "title": "wombat weekend",
+    "alt": "A round wombat almost asleep in a battered recliner, its own human-shaped hand loosely holding a TV remote against its belly.",
+    "tags": [
+      "chill",
+      "wombat",
+      "remote",
+      "couch",
+      "sleepy"
+    ],
+    "image": "images/wombat-recliner.jpg",
+    "thumbnail": "images/wombat-recliner-thumb.webp"
+  },
+  {
+    "id": "seal-socks",
+    "title": "seal socks",
+    "alt": "A harbor seal sprawled on a faded sofa with absurd human feet in white tube socks propped on a coffee table, barely awake.",
+    "tags": [
+      "chill",
+      "seal",
+      "feet",
+      "socks",
+      "couch",
+      "sleepy"
+    ],
+    "image": "images/seal-socks.jpg",
+    "thumbnail": "images/seal-socks-thumb.webp"
+  },
+  {
+    "id": "cat-sunbeam",
+    "title": "sunbeam",
+    "alt": "A fluffy white cat in a deep sunbeam on a rug, its own relaxed human hands resting on its belly, eyes softly closed.",
+    "tags": [
+      "chill",
+      "cat",
+      "sun",
+      "hands",
+      "nap",
+      "sleepy"
+    ],
+    "image": "images/cat-sunbeam.jpg",
+    "thumbnail": "images/cat-sunbeam-thumb.webp"
+  },
+  {
+    "id": "duck-lounger",
+    "title": "pool duck",
+    "alt": "A mallard reclines on a striped pool lounger, its human legs in flip-flops comfortably crossed, wings behind its head.",
+    "tags": [
+      "chill",
+      "duck",
+      "legs",
+      "pool",
+      "relaxed"
+    ],
+    "image": "images/duck-lounger.jpg",
+    "thumbnail": "images/duck-lounger-thumb.webp"
+  },
+  {
+    "id": "sloth-pillow",
+    "title": "do not disturb",
+    "alt": "A sloth lying on a bed of pillows, human hands loosely clasped on its stomach, very sleepy faint smile.",
+    "tags": [
+      "chill",
+      "sloth",
+      "hands",
+      "bed",
+      "sleepy"
+    ],
+    "image": "images/sloth-pillow.jpg",
+    "thumbnail": "images/sloth-pillow-thumb.webp"
+  },
+  {
+    "id": "sphynx-blanket",
+    "title": "smoke break",
+    "alt": "An adult sphynx cat sunk into a patio chair in a loose robe, its own human hand lazily holding a lit cigarette, thin smoke drifting upward, half-lidded unbothered eyes.",
+    "tags": [
+      "chill",
+      "cat",
+      "sphynx",
+      "cigarette",
+      "smoking",
+      "robe",
+      "cigs"
+    ],
+    "image": "images/sphynx-blanket.jpg",
+    "thumbnail": "images/sphynx-blanket-thumb.webp"
+  },
+  {
+    "id": "otter-feet",
+    "title": "double cup",
+    "alt": "An adult otter slouched on a sofa wearing an oversized white tee and a heavy gold chain, its human feet in wool socks propped up near the lens, its own human hand casually holding two nested white Styrofoam lean cups with purple liquid and ice visible, dark sunglasses, total calm.",
+    "tags": [
+      "chill",
+      "otter",
+      "feet",
+      "socks",
+      "lean",
+      "cup",
+      "styrofoam",
+      "purple",
+      "drinking",
+      "chain",
+      "sunglasses"
+    ],
+    "image": "images/otter-feet.jpg",
+    "thumbnail": "images/otter-feet-thumb.webp"
+  },
+  {
+    "id": "cat-shaka",
+    "title": "joe cool",
+    "alt": "An adult black cat in small dark sunglasses reclines on a porch chair, human-shaped furry hand holding a smoldering joint, subtle smoke, completely relaxed.",
+    "tags": [
+      "chill",
+      "cat",
+      "sunglasses",
+      "joint",
+      "weed",
+      "smoking",
+      "porch",
+      "cannabis",
+      "marijuana"
+    ],
+    "image": "images/cat-shaka.jpg",
+    "thumbnail": "images/cat-shaka-thumb.webp"
+  },
+  {
+    "id": "pigeon-chair",
+    "title": "low key",
+    "alt": "An adult pigeon leaning far back in an old diner booth, loose oversized black tee, a gold chain, dark sunglasses, its human hand loosely holding a double-stacked white Styrofoam lean cup with purple drink and ice, another hand draped across seat back. Casual early-2000s hip hop swagger.",
+    "tags": [
+      "chill",
+      "pigeon",
+      "hands",
+      "lean",
+      "cup",
+      "styrofoam",
+      "purple",
+      "drinking",
+      "chain",
+      "sunglasses",
+      "gangsta"
+    ],
+    "image": "images/pigeon-chair.jpg",
+    "thumbnail": "images/pigeon-chair-thumb.webp"
+  },
+  {
+    "id": "quokka-couch",
+    "title": "weekend joint",
+    "alt": "An adult quokka sunk deep in a couch calmly lighting a joint held at its lips, its own human-shaped hand holding a small lighter, tiny realistic flame and curl of smoke, sleepy eyes.",
+    "tags": [
+      "chill",
+      "quokka",
+      "hands",
+      "joint",
+      "weed",
+      "lighter",
+      "smoking",
+      "couch",
+      "cannabis",
+      "marijuana"
+    ],
+    "image": "images/quokka-couch.jpg",
+    "thumbnail": "images/quokka-couch-thumb.webp"
+  },
+  {
+    "id": "ferret-socks",
+    "title": "porch beer",
+    "alt": "An adult ferret stretched out on a porch sofa, baggy jeans and oversized tee, long human legs, its own human hand holding an unbranded beer can, sideways baseball cap and chain, sleepy expression. Casual early-2000s hip hop styling.",
+    "tags": [
+      "chill",
+      "ferret",
+      "legs",
+      "beer",
+      "drinking",
+      "porch",
+      "cap",
+      "chain",
+      "gangsta"
+    ],
+    "image": "images/ferret-socks.jpg",
+    "thumbnail": "images/ferret-socks-thumb.webp"
+  },
+  {
+    "id": "cat-nap",
+    "title": "ashtray hours",
+    "alt": "An adult chubby tuxedo cat with a tiny human mustache slumped in a recliner, its human-shaped hand holding a lit cigarette over a plain ashtray, sleepy eyes and casual contentment.",
+    "tags": [
+      "chill",
+      "cat",
+      "mustache",
+      "cigarette",
+      "smoking",
+      "chair",
+      "cigs"
+    ],
+    "image": "images/cat-nap.jpg",
+    "thumbnail": "images/cat-nap-thumb.webp"
+  },
+  {
+    "id": "turtle-hammock",
+    "title": "slow burn",
+    "alt": "An adult turtle settled in a backyard hammock, its own human-shaped hand loosely holding a smoking joint, eyes half closed, tiny dark sunglasses tipped down on its nose.",
+    "tags": [
+      "chill",
+      "turtle",
+      "hands",
+      "joint",
+      "weed",
+      "smoking",
+      "sunglasses",
+      "hammock",
+      "cannabis",
+      "marijuana"
+    ],
+    "image": "images/turtle-hammock.jpg",
+    "thumbnail": "images/turtle-hammock-thumb.webp"
+  },
+  {
+    "id": "basset-sofa",
+    "title": "one more sip",
+    "alt": "An adult basset hound slouched sideways on a sofa, its own human arm resting on the backrest and human hand holding a stemmed glass of red wine, half shut eyes.",
+    "tags": [
+      "chill",
+      "dog",
+      "basset",
+      "arm",
+      "wine",
+      "drinking",
+      "couch"
+    ],
+    "image": "images/basset-sofa.jpg",
+    "thumbnail": "images/basset-sofa-thumb.webp"
+  },
+  {
+    "id": "axolotl-lounge",
+    "title": "poolside cup",
+    "alt": "An adult pink axolotl reclining in a tiny poolside lounge chair beside shallow water, oversized white tee and small gold chain, its own human hand holding two nested white Styrofoam lean cups with a little purple liquid and ice visible, dark sunglasses and peacefully sleepy face.",
+    "tags": [
+      "chill",
+      "axolotl",
+      "lean",
+      "cup",
+      "styrofoam",
+      "purple",
+      "drinking",
+      "sunglasses",
+      "pool",
+      "chain",
+      "gangsta"
+    ],
+    "image": "images/axolotl-lounge.jpg",
+    "thumbnail": "images/axolotl-lounge-thumb.webp"
+  },
+  {
     "id": "chill-cat",
     "title": "very chill",
     "alt": "A relaxed tabby cat on a couch gives a human-handed thumbs-up.",
