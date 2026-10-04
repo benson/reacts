@@ -1,0 +1,713 @@
+{
+  "mode": "Built-in image_gen reference edits",
+  "reference": "originals/pair-small-victory.png",
+  "base": "Create ONE new square photorealistic candid flash photograph starring the EXACT SAME adult gray tabby cat on the LEFT in the reference: broad round face, silver charcoal striped short fur, pale cream muzzle/chin/chest, pink-brown nose, narrow half-lidded yellow-green eyes, tiny confident unimpressed smirk, stocky plush body. Maintain his recognizable identity, not a generic different cat. He has small bare human hands naturally attached to his furry forearms, like the reference. ONLY this cat is the main subject; omit the pigeon. Early-2000s point-and-shoot fisheye, strong barrel distortion, dark rounded corners, real fur texture, modest flash grain, ordinary lived-in environment, maximum chill and quiet cool. No collage, captions, watermark, fantasy environment, or human people. New scene: ",
+  "scenes": [
+    {
+      "id": "cat-diner-regular",
+      "title": "the usual",
+      "scene": "He sits alone in a red diner booth, one human hand loosely around a coffee mug, other arm draped along the booth, looking sideways at camera.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "diner",
+        "coffee"
+      ]
+    },
+    {
+      "id": "cat-pool-hall",
+      "title": "all calculated",
+      "scene": "He leans casually against a pool table holding a cue in one human hand, chalk in the other, lazy confident look.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "pool",
+        "billiards"
+      ]
+    },
+    {
+      "id": "cat-record-digging",
+      "title": "good find",
+      "scene": "He sits on a record shop floor holding a vinyl sleeve with abstract unlettered art, giving a small human thumbs-up.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "records",
+        "music"
+      ]
+    },
+    {
+      "id": "cat-stoop-soda",
+      "title": "posted up",
+      "scene": "He sprawls on brick stoop steps on a sunny afternoon, plain soda can in one human hand, elbow on knee.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "stoop",
+        "soda"
+      ]
+    },
+    {
+      "id": "cat-bowling",
+      "title": "lane's yours",
+      "scene": "He lounges on an old bowling alley bench with bowling shoes, human hand resting on a blue bowling ball, unbothered.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "bowling"
+      ]
+    },
+    {
+      "id": "cat-deli-sandwich",
+      "title": "lunch handled",
+      "scene": "He sits outside a corner deli holding a huge sandwich in both human hands, small bite taken, satisfied half-lidded eyes.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "sandwich",
+        "food",
+        "deli"
+      ]
+    },
+    {
+      "id": "cat-laundry-wait",
+      "title": "no plans",
+      "scene": "He sits in a laundromat chair with legs stretched out, human hands resting behind head, dryer spinning nearby.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "laundromat",
+        "waiting"
+      ]
+    },
+    {
+      "id": "cat-window-rain",
+      "title": "watching weather",
+      "scene": "He leans his furry elbows on an apartment windowsill with a mug between his human hands, rainy street beyond.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "rain",
+        "window",
+        "coffee"
+      ]
+    },
+    {
+      "id": "cat-fishing-chair",
+      "title": "catching nothing",
+      "scene": "He reclines in a folding chair on a fishing dock, idle fishing rod in a human hand, contented face.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "fishing",
+        "lake"
+      ]
+    },
+    {
+      "id": "cat-grill-tongs",
+      "title": "almost ready",
+      "scene": "He stands beside a plain backyard grill, holding metal tongs in one human hand and a plain beer bottle in the other.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "grill",
+        "beer"
+      ]
+    },
+    {
+      "id": "cat-corner-booth",
+      "title": "reserved",
+      "scene": "He sits in the corner booth of a dim neighborhood bar, tiny dark sunglasses pushed atop his head, human hand circling a glass.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "bar",
+        "drink"
+      ]
+    },
+    {
+      "id": "cat-gas-station",
+      "title": "road provisions",
+      "scene": "He sits on the curb outside a gas station at dusk holding a large plain slush cup in one human hand and chips in the other.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "slush",
+        "snack",
+        "travel"
+      ]
+    },
+    {
+      "id": "cat-couch-controller",
+      "title": "casual mode",
+      "scene": "He slouches on a worn couch holding an old wired video game controller in human hands, blank calm concentration.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "gaming",
+        "couch"
+      ]
+    },
+    {
+      "id": "cat-bus-seat",
+      "title": "next stop whenever",
+      "scene": "He sits on an empty city bus with one human hand holding the rail and the other in his jacket pocket, sleepy sideways gaze.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "bus",
+        "commute"
+      ]
+    },
+    {
+      "id": "cat-picnic-sun",
+      "title": "schedule clear",
+      "scene": "He sprawls on a picnic blanket, one human hand shielding eyes from sun, other resting beside a sandwich.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "picnic",
+        "sunny"
+      ]
+    },
+    {
+      "id": "cat-bookstore",
+      "title": "just browsing",
+      "scene": "He sits on a low bookstore stool holding an open paperback in his human hands, knowing squint over reading glasses.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "books",
+        "reading"
+      ]
+    },
+    {
+      "id": "cat-kitchen-toast",
+      "title": "slow morning",
+      "scene": "He sits on the kitchen counter holding buttered toast in one human hand, feet dangling, morning flash snapshot.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "kitchen",
+        "toast",
+        "breakfast"
+      ]
+    },
+    {
+      "id": "cat-beach-umbrella",
+      "title": "shade secured",
+      "scene": "He reclines under a beach umbrella wearing tiny sunglasses, holding a plain cold drink in one human hand.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "beach",
+        "sunglasses"
+      ]
+    },
+    {
+      "id": "cat-car-wash",
+      "title": "looking sharp",
+      "scene": "He sits on a plastic chair beside a freshly washed old car, damp towel in human hand, relaxed pride.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "car",
+        "wash"
+      ]
+    },
+    {
+      "id": "cat-pizza-box",
+      "title": "for later",
+      "scene": "He lounges on the floor beside an open pizza box holding a slice in a human hand, wearing loose sweatpants.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "pizza",
+        "food"
+      ]
+    },
+    {
+      "id": "cat-sunset-roof",
+      "title": "up here",
+      "scene": "He sits on a safe ordinary rooftop terrace in a lawn chair at sunset, human hands folded on belly.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "roof",
+        "sunset"
+      ]
+    },
+    {
+      "id": "cat-arcade",
+      "title": "still got it",
+      "scene": "He stands at a vintage arcade cabinet with one human hand on joystick, other on buttons, looking casually toward camera.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "arcade",
+        "games"
+      ]
+    },
+    {
+      "id": "cat-hardware-store",
+      "title": "got the thing",
+      "scene": "He sits on a hardware-store bench holding a tiny paper bag and a single bolt in human hands, deeply satisfied.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "hardware",
+        "errands"
+      ]
+    },
+    {
+      "id": "cat-hammock",
+      "title": "busy today",
+      "scene": "He lies diagonally in a backyard hammock, human hand dangling with a paperback, sleepy face.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "hammock",
+        "nap"
+      ]
+    },
+    {
+      "id": "cat-train-window",
+      "title": "scenic route",
+      "scene": "He reclines in a train seat, human hand under chin, countryside through window and an unopened snack on table.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "train",
+        "travel"
+      ]
+    },
+    {
+      "id": "cat-skate-bench",
+      "title": "taking five",
+      "scene": "He sits on a skatepark bench, skateboard under his feet, human hands resting on knees, cap turned backward.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "skateboard",
+        "break"
+      ]
+    },
+    {
+      "id": "cat-porch-cigarette",
+      "title": "evening ritual",
+      "scene": "He sits on a porch chair at night holding a cigarette between human fingers and a plain mug in other hand, faint smoke, relaxed adult.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "porch",
+        "cigarette",
+        "smoking"
+      ]
+    },
+    {
+      "id": "cat-grocery-cart",
+      "title": "essentials only",
+      "scene": "He stands leaning casually on a grocery cart with bread, chips and soda, human hands on handle, half-lidded smug face.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "grocery",
+        "shopping"
+      ]
+    },
+    {
+      "id": "cat-desk-break",
+      "title": "sent it",
+      "scene": "He leans back from a desk with a closed laptop, human hands behind his head, socks on his feet.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "office",
+        "desk"
+      ]
+    },
+    {
+      "id": "cat-motel-balcony",
+      "title": "checked in",
+      "scene": "He lounges on a motel balcony chair holding an ice bucket in human hands, cheap sunglasses, dusk.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "motel",
+        "travel"
+      ]
+    },
+    {
+      "id": "cat-takeout-floor",
+      "title": "night sorted",
+      "scene": "He sits cross-legged on a rug with takeout containers, human hand holding noodles on a fork, TV glow.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "takeout",
+        "noodles"
+      ]
+    },
+    {
+      "id": "cat-chess-park",
+      "title": "your problem",
+      "scene": "He sits at a park chess table, human fingers resting on one chess piece, profoundly calm eye contact with camera.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "chess",
+        "park"
+      ]
+    },
+    {
+      "id": "cat-drum-break",
+      "title": "between sets",
+      "scene": "He sits at a modest drum kit in a garage, drumsticks loosely in human hands, relaxed shoulders.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "drums",
+        "music"
+      ]
+    },
+    {
+      "id": "cat-guitar-porch",
+      "title": "know a few",
+      "scene": "He lounges in a porch rocking chair with an acoustic guitar across his belly, human fingers loosely on strings.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "guitar",
+        "porch"
+      ]
+    },
+    {
+      "id": "cat-farmers-market",
+      "title": "picked a good one",
+      "scene": "He sits at a farmers market bench holding a ripe peach in one human hand, canvas bag of vegetables beside him.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "market",
+        "peach"
+      ]
+    },
+    {
+      "id": "cat-airport-chair",
+      "title": "plenty of time",
+      "scene": "He reclines across an airport waiting chair with small suitcase at feet, human hand holding coffee, no readable signs.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "airport",
+        "coffee"
+      ]
+    },
+    {
+      "id": "cat-sneaker-laces",
+      "title": "ready enough",
+      "scene": "He sits on a front step slowly tying a sneaker with human hands, chin raised toward camera, relaxed.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "sneakers",
+        "steps"
+      ]
+    },
+    {
+      "id": "cat-bathrobe",
+      "title": "weekend rules",
+      "scene": "He sits in a kitchen chair in a worn bathrobe, holding a cereal bowl in human hands, serene morning expression.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "bathrobe",
+        "cereal"
+      ]
+    },
+    {
+      "id": "cat-patio-cards",
+      "title": "nice hand",
+      "scene": "He sits at a patio table holding a fan of playing cards with human fingers, tiny almost-smile.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "cards",
+        "patio"
+      ]
+    },
+    {
+      "id": "cat-ferry-rail",
+      "title": "nice breeze",
+      "scene": "He leans against the safe railing of a small ferry, human hands resting on rail, wind gently ruffling his fur.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "ferry",
+        "water"
+      ]
+    },
+    {
+      "id": "cat-bench-icecream",
+      "title": "worth the walk",
+      "scene": "He sits on a park bench holding a slightly melting ice cream cone in one human hand, pleased squint.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "icecream",
+        "park"
+      ]
+    },
+    {
+      "id": "cat-garage-stool",
+      "title": "fixed probably",
+      "scene": "He sits on a garage stool holding a wrench in human hand beside an ordinary lawn mower, feet resting on toolbox.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "garage",
+        "tools"
+      ]
+    },
+    {
+      "id": "cat-vending-change",
+      "title": "big decision",
+      "scene": "He leans against an ordinary vending machine holding coins in one human palm, chin supported by other hand.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "vending",
+        "snack"
+      ]
+    },
+    {
+      "id": "cat-balcony-plants",
+      "title": "growth mindset",
+      "scene": "He sits among balcony pots watering one small plant with a tiny watering can in human hands, no urgency.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "plants",
+        "balcony"
+      ]
+    },
+    {
+      "id": "cat-sofa-double-cup",
+      "title": "settled in",
+      "scene": "He sinks into a plaid couch, plain double white Styrofoam cup held in a human hand, other hand on belly.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "couch",
+        "cup",
+        "lean"
+      ]
+    },
+    {
+      "id": "cat-basketball-sideline",
+      "title": "next game",
+      "scene": "He sits on an outdoor basketball court bench with a basketball under one human hand, relaxed sports clothes.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "basketball",
+        "sport"
+      ]
+    },
+    {
+      "id": "cat-pancake-counter",
+      "title": "strong start",
+      "scene": "He sits at a breakfast counter holding fork and knife in human hands over pancakes, contented sleepy grin.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "pancakes",
+        "breakfast"
+      ]
+    },
+    {
+      "id": "cat-camping-chair",
+      "title": "fire's good",
+      "scene": "He reclines in a folding camp chair near a small safe campfire holding an enamel mug in a human hand, dark woods behind.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "camping",
+        "mug"
+      ]
+    },
+    {
+      "id": "cat-thrift-mirror",
+      "title": "looks right",
+      "scene": "He stands by a thrift store mirror trying on a simple denim jacket, human thumbs hooked in pockets, confident half-lidded eyes.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "thrift",
+        "jacket"
+      ]
+    },
+    {
+      "id": "cat-bed-remote",
+      "title": "tomorrow works",
+      "scene": "He sits propped on pillows in a rumpled bed holding a remote in one human hand, blanket over belly, maximum unbothered.",
+      "tags": [
+        "chill",
+        "cat",
+        "gray",
+        "tabby",
+        "single",
+        "bed",
+        "remote",
+        "sleepy"
+      ]
+    }
+  ]
+}
