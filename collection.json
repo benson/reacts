@@ -1,0 +1,291 @@
+[
+  {
+    "id": "chill-cat",
+    "title": "very chill",
+    "alt": "A relaxed tabby cat on a couch gives a human-handed thumbs-up.",
+    "tags": [
+      "cat",
+      "chill",
+      "thumbs",
+      "up",
+      "approved",
+      "yes"
+    ],
+    "image": "images/chill-cat.jpg",
+    "thumbnail": "images/chill-cat-thumb.webp"
+  },
+  {
+    "id": "peace-cat",
+    "title": "peace out",
+    "alt": "A sleepy orange tabby on a corduroy couch raises its own human-shaped furry hand in a loose two-finger peace sign close to the lens.",
+    "tags": [
+      "cat",
+      "orange",
+      "peace",
+      "chill",
+      "relaxed"
+    ],
+    "image": "images/peace-cat.jpg",
+    "thumbnail": "images/peace-cat-thumb.webp"
+  },
+  {
+    "id": "capybara-hands",
+    "title": "all good",
+    "alt": "A capybara reclines in a plastic patio chair with its own two human-like hands calmly folded over its belly.",
+    "tags": [
+      "capybara",
+      "chill",
+      "calm",
+      "relaxed",
+      "hands"
+    ],
+    "image": "images/capybara-hands.jpg",
+    "thumbnail": "images/capybara-hands-thumb.webp"
+  },
+  {
+    "id": "frog-legs",
+    "title": "taking it easy",
+    "alt": "A little green frog sits on a porch step with absurdly long human legs wearing white crew socks and worn sneakers, ankles casually crossed.",
+    "tags": [
+      "frog",
+      "legs",
+      "shoes",
+      "chill",
+      "relaxed"
+    ],
+    "image": "images/frog-legs.jpg",
+    "thumbnail": "images/frog-legs-thumb.webp"
+  },
+  {
+    "id": "raccoon-coffee",
+    "title": "not before coffee",
+    "alt": "A raccoon at a kitchen table holds a plain coffee mug in its own human-shaped hand and looks sleepily into the lens.",
+    "tags": [
+      "raccoon",
+      "coffee",
+      "tired",
+      "morning",
+      "sleepy"
+    ],
+    "image": "images/raccoon-coffee.jpg",
+    "thumbnail": "images/raccoon-coffee-thumb.webp"
+  },
+  {
+    "id": "cat-shrug",
+    "title": "it is what it is",
+    "alt": "A gray cat sitting on a bed makes a tiny resigned shrug with two human-shaped furry hands held palm-up.",
+    "tags": [
+      "cat",
+      "shrug",
+      "whatever",
+      "confused",
+      "hands"
+    ],
+    "image": "images/cat-shrug.jpg",
+    "thumbnail": "images/cat-shrug-thumb.webp"
+  },
+  {
+    "id": "possum-peace",
+    "title": "no worries",
+    "alt": "A possum lounging in a lawn chair lifts a human-shaped hand in a lazy peace sign, naturally attached to its own furry forearm.",
+    "tags": [
+      "possum",
+      "peace",
+      "chill",
+      "no",
+      "worries"
+    ],
+    "image": "images/possum-peace.jpg",
+    "thumbnail": "images/possum-peace-thumb.webp"
+  },
+  {
+    "id": "seal-thumbs",
+    "title": "approved",
+    "alt": "A plump harbor seal sprawled on a sun-warmed dock raises one human-shaped flipper hand in a thumbs-up toward the camera.",
+    "tags": [
+      "seal",
+      "thumbs",
+      "up",
+      "yes",
+      "approved"
+    ],
+    "image": "images/seal-thumbs.jpg",
+    "thumbnail": "images/seal-thumbs-thumb.webp"
+  },
+  {
+    "id": "cat-feet",
+    "title": "clocked out",
+    "alt": "A black cat lounges in an armchair with its own human feet in chunky house slippers stretched toward the fisheye camera.",
+    "tags": [
+      "cat",
+      "black",
+      "feet",
+      "tired",
+      "done",
+      "chill"
+    ],
+    "image": "images/cat-feet.jpg",
+    "thumbnail": "images/cat-feet-thumb.webp"
+  },
+  {
+    "id": "duck-hands",
+    "title": "hear me out",
+    "alt": "A mallard duck at a diner booth lightly steeples its own two human-shaped hands on the table, completely deadpan.",
+    "tags": [
+      "duck",
+      "hands",
+      "thinking",
+      "serious"
+    ],
+    "image": "images/duck-hands.jpg",
+    "thumbnail": "images/duck-hands-thumb.webp"
+  },
+  {
+    "id": "sloth-phone",
+    "title": "on my way",
+    "alt": "A sloth sunk into a couch lazily holds a flip phone in its own human-shaped hand, sleepy eyes toward the lens.",
+    "tags": [
+      "sloth",
+      "phone",
+      "lazy",
+      "late",
+      "tired"
+    ],
+    "image": "images/sloth-phone.jpg",
+    "thumbnail": "images/sloth-phone-thumb.webp"
+  },
+  {
+    "id": "sphynx-brows",
+    "title": "interesting",
+    "alt": "A sphynx cat on a kitchen chair has thick expressive human eyebrows, one eyebrow slightly raised, utterly unimpressed.",
+    "tags": [
+      "cat",
+      "sphynx",
+      "eyebrows",
+      "skeptical",
+      "suspicious"
+    ],
+    "image": "images/sphynx-brows.jpg",
+    "thumbnail": "images/sphynx-brows-thumb.webp"
+  },
+  {
+    "id": "otter-toast",
+    "title": "cheers",
+    "alt": "An otter leaning back in a bathtub raises a small glass of water with its own human-shaped hand in a casual toast.",
+    "tags": [
+      "otter",
+      "cheers",
+      "celebrate",
+      "chill"
+    ],
+    "image": "images/otter-toast.jpg",
+    "thumbnail": "images/otter-toast-thumb.webp"
+  },
+  {
+    "id": "cat-finger-guns",
+    "title": "you got it",
+    "alt": "A fluffy white cat on a shag rug points two relaxed finger guns with its own human-shaped furry hands toward the camera.",
+    "tags": [
+      "cat",
+      "finger",
+      "guns",
+      "yes",
+      "approved"
+    ],
+    "image": "images/cat-finger-guns.jpg",
+    "thumbnail": "images/cat-finger-guns-thumb.webp"
+  },
+  {
+    "id": "pigeon-sneakers",
+    "title": "just hanging",
+    "alt": "A pigeon on a city bench with long human legs in baggy jeans and scuffed sneakers sits casually with ankles crossed.",
+    "tags": [
+      "pigeon",
+      "legs",
+      "shoes",
+      "chill",
+      "hanging"
+    ],
+    "image": "images/pigeon-sneakers.jpg",
+    "thumbnail": "images/pigeon-sneakers-thumb.webp"
+  },
+  {
+    "id": "quokka-wave",
+    "title": "hey dude",
+    "alt": "A quokka on a front stoop gives a small friendly wave with its own human-shaped hand.",
+    "tags": [
+      "quokka",
+      "hello",
+      "wave",
+      "happy"
+    ],
+    "image": "images/quokka-wave.jpg",
+    "thumbnail": "images/quokka-wave-thumb.webp"
+  },
+  {
+    "id": "ferret-elbows",
+    "title": "listening",
+    "alt": "A ferret rests its chin on its own human-shaped hand, elbow propped on a laminate kitchen table, relaxed and mildly interested.",
+    "tags": [
+      "ferret",
+      "listening",
+      "thinking",
+      "hand"
+    ],
+    "image": "images/ferret-elbows.jpg",
+    "thumbnail": "images/ferret-elbows-thumb.webp"
+  },
+  {
+    "id": "cat-mustache",
+    "title": "distinguished",
+    "alt": "A tuxedo cat on a worn recliner has a small natural-looking human mustache above its mouth and its own human-shaped hand loosely resting on the chair arm.",
+    "tags": [
+      "cat",
+      "mustache",
+      "fancy",
+      "chill"
+    ],
+    "image": "images/cat-mustache.jpg",
+    "thumbnail": "images/cat-mustache-thumb.webp"
+  },
+  {
+    "id": "turtle-shaka",
+    "title": "take it slow",
+    "alt": "A turtle on a poolside lounger makes a relaxed shaka hang-loose gesture with its own human-shaped hand.",
+    "tags": [
+      "turtle",
+      "shaka",
+      "chill",
+      "slow"
+    ],
+    "image": "images/turtle-shaka.jpg",
+    "thumbnail": "images/turtle-shaka-thumb.webp"
+  },
+  {
+    "id": "dog-brows",
+    "title": "you serious",
+    "alt": "A basset hound on a carpet has subtly human eyebrows and rests its chin on its own human-shaped hand, calmly skeptical.",
+    "tags": [
+      "dog",
+      "eyebrows",
+      "skeptical",
+      "tired"
+    ],
+    "image": "images/dog-brows.jpg",
+    "thumbnail": "images/dog-brows-thumb.webp"
+  },
+  {
+    "id": "axolotl-hands",
+    "title": "doing my best",
+    "alt": "A pink axolotl sitting in a shallow aquarium poses with two tiny human-shaped hands giving a gentle double thumbs-up toward the glass.",
+    "tags": [
+      "axolotl",
+      "thumbs",
+      "up",
+      "encouraging",
+      "yes"
+    ],
+    "image": "images/axolotl-hands.jpg",
+    "thumbnail": "images/axolotl-hands-thumb.webp"
+  }
+]

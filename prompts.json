@@ -1,0 +1,240 @@
+{
+  "mode": "Built-in image_gen",
+  "base": "Use case: photorealistic-natural. Single square photoreal early-2000s POV fisheye snapshot. Strong barrel distortion with dark soft corners, subject close to lens, direct compact-camera flash mixed with warm ambient light, slightly grainy 2003 consumer-camera texture. Weird but friendly animal with human anatomical features convincingly attached to its own body. Extremely chill, casual, unbothered mood. Real textures and plausible photographic lighting, surreal anatomy. No text, logos, watermark, collage or cartoon. Scene: ",
+  "scenes": [
+    {
+      "id": "peace-cat",
+      "title": "peace out",
+      "scene": "A sleepy orange tabby on a corduroy couch raises its own human-shaped furry hand in a loose two-finger peace sign close to the lens.",
+      "tags": [
+        "cat",
+        "orange",
+        "peace",
+        "chill",
+        "relaxed"
+      ]
+    },
+    {
+      "id": "capybara-hands",
+      "title": "all good",
+      "scene": "A capybara reclines in a plastic patio chair with its own two human-like hands calmly folded over its belly.",
+      "tags": [
+        "capybara",
+        "chill",
+        "calm",
+        "relaxed",
+        "hands"
+      ]
+    },
+    {
+      "id": "frog-legs",
+      "title": "taking it easy",
+      "scene": "A little green frog sits on a porch step with absurdly long human legs wearing white crew socks and worn sneakers, ankles casually crossed.",
+      "tags": [
+        "frog",
+        "legs",
+        "shoes",
+        "chill",
+        "relaxed"
+      ]
+    },
+    {
+      "id": "raccoon-coffee",
+      "title": "not before coffee",
+      "scene": "A raccoon at a kitchen table holds a plain coffee mug in its own human-shaped hand and looks sleepily into the lens.",
+      "tags": [
+        "raccoon",
+        "coffee",
+        "tired",
+        "morning",
+        "sleepy"
+      ]
+    },
+    {
+      "id": "cat-shrug",
+      "title": "it is what it is",
+      "scene": "A gray cat sitting on a bed makes a tiny resigned shrug with two human-shaped furry hands held palm-up.",
+      "tags": [
+        "cat",
+        "shrug",
+        "whatever",
+        "confused",
+        "hands"
+      ]
+    },
+    {
+      "id": "possum-peace",
+      "title": "no worries",
+      "scene": "A possum lounging in a lawn chair lifts a human-shaped hand in a lazy peace sign, naturally attached to its own furry forearm.",
+      "tags": [
+        "possum",
+        "peace",
+        "chill",
+        "no",
+        "worries"
+      ]
+    },
+    {
+      "id": "seal-thumbs",
+      "title": "approved",
+      "scene": "A plump harbor seal sprawled on a sun-warmed dock raises one human-shaped flipper hand in a thumbs-up toward the camera.",
+      "tags": [
+        "seal",
+        "thumbs",
+        "up",
+        "yes",
+        "approved"
+      ]
+    },
+    {
+      "id": "cat-feet",
+      "title": "clocked out",
+      "scene": "A black cat lounges in an armchair with its own human feet in chunky house slippers stretched toward the fisheye camera.",
+      "tags": [
+        "cat",
+        "black",
+        "feet",
+        "tired",
+        "done",
+        "chill"
+      ]
+    },
+    {
+      "id": "duck-hands",
+      "title": "hear me out",
+      "scene": "A mallard duck at a diner booth lightly steeples its own two human-shaped hands on the table, completely deadpan.",
+      "tags": [
+        "duck",
+        "hands",
+        "thinking",
+        "serious"
+      ]
+    },
+    {
+      "id": "sloth-phone",
+      "title": "on my way",
+      "scene": "A sloth sunk into a couch lazily holds a flip phone in its own human-shaped hand, sleepy eyes toward the lens.",
+      "tags": [
+        "sloth",
+        "phone",
+        "lazy",
+        "late",
+        "tired"
+      ]
+    },
+    {
+      "id": "sphynx-brows",
+      "title": "interesting",
+      "scene": "A sphynx cat on a kitchen chair has thick expressive human eyebrows, one eyebrow slightly raised, utterly unimpressed.",
+      "tags": [
+        "cat",
+        "sphynx",
+        "eyebrows",
+        "skeptical",
+        "suspicious"
+      ]
+    },
+    {
+      "id": "otter-toast",
+      "title": "cheers",
+      "scene": "An otter leaning back in a bathtub raises a small glass of water with its own human-shaped hand in a casual toast.",
+      "tags": [
+        "otter",
+        "cheers",
+        "celebrate",
+        "chill"
+      ]
+    },
+    {
+      "id": "cat-finger-guns",
+      "title": "you got it",
+      "scene": "A fluffy white cat on a shag rug points two relaxed finger guns with its own human-shaped furry hands toward the camera.",
+      "tags": [
+        "cat",
+        "finger",
+        "guns",
+        "yes",
+        "approved"
+      ]
+    },
+    {
+      "id": "pigeon-sneakers",
+      "title": "just hanging",
+      "scene": "A pigeon on a city bench with long human legs in baggy jeans and scuffed sneakers sits casually with ankles crossed.",
+      "tags": [
+        "pigeon",
+        "legs",
+        "shoes",
+        "chill",
+        "hanging"
+      ]
+    },
+    {
+      "id": "quokka-wave",
+      "title": "hey dude",
+      "scene": "A quokka on a front stoop gives a small friendly wave with its own human-shaped hand.",
+      "tags": [
+        "quokka",
+        "hello",
+        "wave",
+        "happy"
+      ]
+    },
+    {
+      "id": "ferret-elbows",
+      "title": "listening",
+      "scene": "A ferret rests its chin on its own human-shaped hand, elbow propped on a laminate kitchen table, relaxed and mildly interested.",
+      "tags": [
+        "ferret",
+        "listening",
+        "thinking",
+        "hand"
+      ]
+    },
+    {
+      "id": "cat-mustache",
+      "title": "distinguished",
+      "scene": "A tuxedo cat on a worn recliner has a small natural-looking human mustache above its mouth and its own human-shaped hand loosely resting on the chair arm.",
+      "tags": [
+        "cat",
+        "mustache",
+        "fancy",
+        "chill"
+      ]
+    },
+    {
+      "id": "turtle-shaka",
+      "title": "take it slow",
+      "scene": "A turtle on a poolside lounger makes a relaxed shaka hang-loose gesture with its own human-shaped hand.",
+      "tags": [
+        "turtle",
+        "shaka",
+        "chill",
+        "slow"
+      ]
+    },
+    {
+      "id": "dog-brows",
+      "title": "you serious",
+      "scene": "A basset hound on a carpet has subtly human eyebrows and rests its chin on its own human-shaped hand, calmly skeptical.",
+      "tags": [
+        "dog",
+        "eyebrows",
+        "skeptical",
+        "tired"
+      ]
+    },
+    {
+      "id": "axolotl-hands",
+      "title": "doing my best",
+      "scene": "A pink axolotl sitting in a shallow aquarium poses with two tiny human-shaped hands giving a gentle double thumbs-up toward the glass.",
+      "tags": [
+        "axolotl",
+        "thumbs",
+        "up",
+        "encouraging",
+        "yes"
+      ]
+    }
+  ]
+}
